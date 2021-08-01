@@ -1,0 +1,620 @@
+﻿Rk,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Press,Succ,%,Def 3rd,Mid 3rd,Att 3rd,Blocks,Sh,ShSv,Pass,Int,Tkl+Int,Clr,Err
+1,Gennaro Acampora\Gennaro-Acampora,it ITA,MFFW,Spezia,26,1994,4.9,11,7,1,7,3,5,7,71.4,2,88,22,25,8,57,23,6,1,0,5,4,15,3,0
+2,Francesco Acerbi\Francesco-Acerbi,it ITA,DF,Lazio,32,1988,31.3,55,38,36,16,3,11,37,29.7,26,350,146,41.7,201,119,30,51,19,0,32,62,117,155,1
+3,Andrea Adorante\Andrea-Adorante,it ITA,FW,Parma,20,2000,0.1,0,0,0,0,0,0,0,,0,3,1,33.3,0,1,2,0,0,0,0,0,0,0,0
+4,Lucien Agoume\Lucien-Agoume,fr FRA,MF,Spezia,18,2002,8.9,14,11,9,5,0,2,13,15.4,11,151,43,28.5,51,86,14,18,4,0,14,20,34,14,1
+5,Kevin Agudelo\Kevin-Agudelo,co COL,FW,Spezia,21,1998,15.1,50,30,12,25,13,10,35,28.6,25,356,100,28.1,64,150,142,30,0,0,30,5,55,7,0
+6,Jean-Daniel Akpa-Akpro\Jean-Daniel-Akpa-Akpro,ci CIV,MF,Lazio,27,1992,11.7,46,28,15,26,5,9,27,33.3,18,354,110,31.1,107,178,69,33,6,0,27,18,64,14,0
+7,Luis Alberto\Luis-Alberto,es ESP,MF,Lazio,27,1992,29.1,43,32,17,18,8,14,66,21.2,52,537,155,28.9,131,275,131,38,2,0,36,21,64,12,0
+8,Bruno Alves\Bruno-Alves,pt POR,DF,Parma,38,1981,18.1,16,6,10,6,0,8,13,61.5,5,140,37,26.4,92,43,5,28,14,0,14,15,31,87,0
+9,Wisdom Amey\Wisdom-Amey,it ITA,DF,Bologna,14,2005,0,0,0,0,0,0,0,0,,0,1,1,100,0,0,1,0,0,0,0,0,0,0,0
+10,Sofyan Amrabat\Sofyan-Amrabat,ma MAR,MF,Fiorentina,23,1996,27.1,60,42,22,31,7,23,63,36.5,40,567,154,27.2,161,316,90,46,5,0,41,21,81,20,0
+11,Djavan Anderson\Djavan-Anderson,nl NED,DF,Lazio,25,1995,0.8,0,0,0,0,0,0,1,0,1,10,1,10,1,7,2,2,0,0,2,0,0,0,0
+12,Nícolas Andrade\Nicolas-Andrade,br BRA,GK,Udinese,32,1988,2,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+13,Davide Angelo Ghislandi\Davide-Angelo-Ghislandi,it ITA,DF,Atalanta,19,2001,0.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
+14,Philip Ankhrah\Philip-Ankhrah,gh GHA,MF,Hellas Verona,17,2002,0.1,0,0,0,0,0,0,0,,0,3,0,0,1,1,1,0,0,0,0,0,0,0,0
+15,Cristian Ansaldi\Cristian-Ansaldi,ar ARG,DF,Torino,33,1986,21.6,48,26,24,16,8,26,41,63.4,15,262,81,30.9,115,84,63,32,7,0,25,27,75,27,1
+16,Valentin Antov\Valentin-Antov,bg BUL,DF,Bologna,19,2000,2.6,6,3,5,1,0,3,10,30,7,35,8,22.9,20,14,1,11,5,0,6,5,11,11,0
+17,Nicolò Armini\Nicolo-Armini,it ITA,DF,Lazio,19,2001,0.1,0,0,0,0,0,0,0,,0,3,0,0,1,2,0,0,0,0,0,0,0,1,0
+18,Tolgay Arslan\Tolgay-Arslan,de GER,MF,Udinese,29,1990,20.2,60,39,30,25,5,20,52,38.5,32,354,125,35.3,155,161,38,30,2,0,28,21,81,9,1
+19,Kwadwo Asamoah\Kwadwo-Asamoah,gh GHA,DFMF,Cagliari,31,1988,2.5,5,4,2,3,0,1,1,100,0,17,4,23.5,6,6,5,4,1,0,3,5,10,4,1
+20,Kristoffer Askildsen\Kristoffer-Askildsen,no NOR,MF,Sampdoria,19,2001,1.1,2,2,0,1,1,1,1,100,0,30,5,16.7,12,15,3,3,0,0,3,1,3,2,0
+21,Emil Audero\Emil-Audero,it ITA,GK,Sampdoria,23,1997,37,0,0,0,0,0,0,1,0,1,6,2,33.3,6,0,0,0,0,0,0,0,0,0,0
+22,Tommaso Augello\Tommaso-Augello,it ITA,DF,Sampdoria,25,1994,35.7,50,25,35,12,3,20,40,50,20,342,119,34.8,163,107,72,51,2,0,49,39,89,89,1
+23,Kaan Ayhan\Kaan-Ayhan,tr TUR,DF,Sassuolo,25,1994,8.8,15,11,7,6,2,7,13,53.8,6,79,34,43,41,32,6,16,4,0,12,8,23,42,0
+24,Milan Badelj\Milan-Badelj,hr CRO,MF,Genoa,31,1989,26.8,64,46,30,26,8,21,85,24.7,64,459,128,27.9,166,220,73,60,10,0,50,92,156,46,0
+25,Tiemoué Bakayoko\Tiemoue-Bakayoko,fr FRA,MF,Napoli,25,1994,21.8,78,53,25,44,9,16,35,45.7,19,365,123,33.7,116,197,52,26,3,0,23,28,106,25,0
+26,Keita Baldé\Keita-Balde,sn SEN,FW,Sampdoria,25,1995,13.3,10,7,2,6,2,3,7,42.9,4,228,49,21.5,12,98,118,7,1,0,6,3,13,6,0
+27,Botond Balogh\Botond-Balogh,hu HUN,DF,Parma,18,2002,1.8,6,3,6,0,0,2,3,66.7,1,33,8,24.2,25,7,1,7,3,0,4,1,7,7,0
+28,Mattia Bani\Mattia-Bani,it ITA,DF,Parma,26,1993,12.7,20,11,15,4,1,6,10,60,4,165,66,40,105,52,8,16,7,0,9,24,44,74,0
+29,Mattia Bani\Mattia-Bani,it ITA,DF,Genoa,26,1993,10.2,13,8,7,6,0,4,10,40,6,143,41,28.7,86,49,8,31,14,0,17,18,31,55,1
+30,Antonín Barák\Antonin-Barak,cz CZE,MFFW,Hellas Verona,25,1994,30.7,40,29,15,17,8,12,47,25.5,35,535,149,27.9,128,270,137,47,9,0,38,18,58,40,1
+31,Federico Barba\Federico-Barba,it ITA,DF,Benevento,26,1993,29.5,34,20,24,8,2,10,24,41.7,14,300,91,30.3,173,104,23,52,18,0,34,57,91,117,4
+32,Nicolò Barella\Nicolo-Barella,it ITA,MF,Inter,23,1997,32.2,61,41,25,28,8,16,60,26.7,44,568,154,27.1,161,266,141,46,8,0,38,32,93,13,0
+33,Antonio Barreca\Antonio-Barreca,it ITA,DF,Fiorentina,25,1995,0.9,0,0,0,0,0,0,1,0,1,6,1,16.7,3,1,2,2,0,0,2,0,0,0,0
+34,Musa Barrow\Musa-Barrow,gm GAM,FWMF,Bologna,21,1998,32.5,21,8,6,9,6,4,28,14.3,24,463,120,25.9,100,166,197,44,4,0,40,14,35,18,0
+35,Paolo Bartolomei\Paolo-Bartolomei,it ITA,MF,Spezia,30,1989,3.6,7,2,3,1,3,1,2,50,1,73,12,16.4,19,36,18,3,0,0,3,0,7,1,0
+36,Daniele Baselli\Daniele-Baselli,it ITA,MF,Torino,28,1992,4.4,11,10,2,6,3,5,9,55.6,4,103,36,35,36,47,20,5,0,0,5,6,17,6,0
+37,Alessandro Bastoni\Alessandro-Bastoni,it ITA,DF,Inter,21,1999,32.5,44,26,18,23,3,17,30,56.7,13,296,87,29.4,141,124,31,48,20,0,28,37,81,87,1
+38,Simone Bastoni\Simone-Bastoni,it ITA,DF,Spezia,23,1996,16.9,55,29,31,19,5,26,47,55.3,21,264,76,28.8,99,122,43,21,1,0,20,22,77,40,0
+39,Bastos\Bastos,ao ANG,DF,Lazio,29,1991,0.7,4,2,2,1,1,0,1,0,1,23,9,39.1,15,7,1,3,0,0,3,0,4,1,0
+40,Rodrigo Becão\Rodrigo-Becao,br BRA,DF,Udinese,24,1996,30.9,68,37,39,25,4,20,47,42.6,27,413,142,34.4,248,133,32,56,31,0,25,47,115,122,2
+41,Valon Behrami\Valon-Behrami,ch SUI,MF,Genoa,35,1985,9.9,22,14,9,12,1,9,23,39.1,14,279,58,20.8,109,136,34,22,3,0,19,6,28,16,0
+42,Andrea Belotti\Andrea-Belotti,it ITA,FW,Torino,26,1993,32.1,31,26,2,18,11,7,29,24.1,22,387,100,25.8,46,177,164,33,5,0,28,8,39,17,0
+43,Ahmad Benali\Ahmad-Benali,ly LBY,MF,Crotone,28,1992,13.5,29,22,16,13,0,13,46,28.3,33,276,78,28.3,114,116,46,13,2,0,11,10,39,19,0
+44,Ismaël Bennacer\Ismael-Bennacer,dz ALG,MF,Milan,22,1997,14.7,38,24,20,18,0,14,32,43.8,18,295,90,30.5,119,149,27,19,2,0,17,22,60,17,0
+45,Rodrigo Bentancur\Rodrigo-Bentancur,uy URU,MF,Juventus,23,1997,25.8,74,45,27,38,9,15,54,27.8,39,537,158,29.4,169,274,94,56,16,0,40,48,122,45,1
+46,Alessandro Berardi\Alessandro-Berardi,it ITA,GK,Hellas Verona,29,1991,0.3,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+47,Domenico Berardi\Domenico-Berardi,it ITA,FWMF,Sassuolo,25,1994,27.5,39,23,17,8,14,14,55,25.5,41,430,138,32.1,131,170,129,37,2,0,35,35,74,39,0
+48,Álex Berenguer\Alex-Berenguer,es ESP,MF,Torino,25,1995,1.5,0,0,0,0,0,0,4,0,4,38,4,10.5,7,25,6,5,1,0,4,0,0,1,0
+49,Bartosz Bereszyński\Bartosz-Bereszynski,pl POL,DF,Sampdoria,28,1992,29,72,46,42,23,7,22,59,37.3,37,427,141,33,205,163,59,78,21,1,57,34,106,80,3
+50,Federico Bernardeschi\Federico-Bernardeschi,it ITA,DFMF,Juventus,26,1994,10.8,11,5,6,4,1,4,22,18.2,18,120,31,25.8,34,50,36,12,3,0,9,13,24,13,0
+51,Marco Bertini\Marco-Bertini,it ITA,MF,Lazio,17,2002,0.1,1,1,1,0,0,0,0,,0,6,4,66.7,4,2,0,1,0,0,1,0,1,0,0
+52,Daniel Bessa\Daniel-Bessa,it ITA,MFFW,Hellas Verona,27,1993,6.8,16,12,4,9,3,7,12,58.3,5,136,39,28.7,18,66,52,5,0,0,5,4,20,2,0
+53,Cristiano Biraghi\Cristiano-Biraghi,it ITA,DF,Fiorentina,27,1992,31.1,42,20,22,11,9,20,40,50,20,241,63,26.1,90,99,52,45,9,0,36,19,61,71,0
+54,Davide Biraschi\Davide-Biraschi,it ITA,DF,Genoa,26,1994,10.2,17,9,12,4,1,3,11,27.3,8,169,45,26.6,98,58,13,18,6,0,12,16,33,28,0
+55,Jeremie Boga\Jeremie-Boga,ci CIV,FWMF,Sassuolo,23,1997,19.8,15,13,5,3,7,1,13,7.7,12,219,67,30.6,42,76,101,17,0,0,17,12,27,11,0
+56,Giacomo Bonaventura\Giacomo-Bonaventura,it ITA,MF,Fiorentina,30,1989,25.1,40,29,16,18,6,12,43,27.9,31,360,97,26.9,112,172,76,34,2,0,32,38,78,16,0
+57,Federico Bonazzoli\Federico-Bonazzoli,it ITA,FW,Sampdoria,23,1997,1.5,1,1,0,1,0,0,1,0,1,25,5,20,1,11,13,1,0,0,1,0,1,0,0
+58,Federico Bonazzoli\Federico-Bonazzoli,it ITA,FW,Torino,23,1997,6.3,6,4,1,3,2,2,12,16.7,10,117,34,29.1,8,52,57,3,0,0,3,2,8,4,0
+59,Kevin Bonifazi\Kevin-Bonifazi,it ITA,DF,Udinese,24,1996,27.4,43,26,32,9,2,14,25,56,11,265,86,32.5,169,80,16,46,21,0,25,49,92,110,2
+60,Leonardo Bonucci\Leonardo-Bonucci,it ITA,DF,Juventus,33,1987,22.5,24,15,12,11,1,7,17,41.2,10,147,53,36.1,73,66,8,37,17,0,20,18,42,84,0
+61,Mehdi Bourabia\Mehdi-Bourabia,ma MAR,MF,Sassuolo,28,1991,5.9,8,6,2,5,1,4,9,44.4,5,94,31,33,30,49,15,18,6,0,12,8,16,11,0
+62,Edoardo Bove\Edoardo-Bove,it ITA,MF,Roma,18,2002,0.1,0,0,0,0,0,0,0,,0,3,2,66.7,2,1,0,0,0,0,0,0,0,0,0
+63,Jayden Braaf\Jayden-Braaf,nl NED,FW,Udinese,17,2002,1.3,0,0,0,0,0,0,1,0,1,15,2,13.3,2,5,8,2,0,0,2,1,1,0,0
+64,Gleison Bremer\Gleison-Bremer,br BRA,DF,Torino,23,1997,32.6,65,41,51,12,2,21,40,52.5,19,361,134,37.1,224,115,22,60,20,0,40,88,153,199,0
+65,Marcelo Brozović\Marcelo-Brozovic,hr CRO,MF,Inter,27,1992,28.7,52,36,22,22,8,12,55,21.8,43,534,154,28.8,193,249,92,48,17,1,31,39,91,45,0
+66,Gastón Brugman\Gaston-Brugman,uy URU,MF,Parma,27,1992,18,42,25,18,20,4,16,48,33.3,32,344,98,28.5,159,151,34,38,4,0,34,37,79,32,1
+67,Juan Brunetta\Juan-Brunetta,ar ARG,FWMF,Parma,23,1997,5.3,3,1,1,2,0,0,6,0,6,68,18,26.5,6,33,29,4,0,0,4,1,4,2,0
+68,Gianluigi Buffon\Gianluigi-Buffon,it ITA,GK,Juventus,42,1978,8,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+69,Alessandro Buongiorno\Alessandro-Buongiorno,it ITA,DF,Torino,21,1999,9.5,8,6,5,3,0,4,8,50,4,103,29,28.2,55,42,6,21,9,0,12,19,27,44,1
+70,Maxime Busi\Maxime-Busi,be BEL,DF,Parma,20,1999,13.3,28,12,23,5,0,12,30,40,18,223,52,23.3,117,82,24,31,1,0,30,18,46,34,1
+71,Martín Cáceres\Martin-Caceres,uy URU,DF,Fiorentina,33,1987,24.9,29,13,20,9,0,11,31,35.5,20,270,83,30.7,155,92,23,27,11,0,16,17,46,76,1
+72,Felipe Caicedo\Felipe-Caicedo,ec ECU,FW,Lazio,31,1988,10.3,13,8,5,5,3,1,10,10,9,169,52,30.8,30,80,59,10,2,0,8,2,15,3,0
+73,Arturo Calabresi\Arturo-Calabresi,it ITA,DF,Cagliari,24,1996,0.2,0,0,0,0,0,0,1,0,1,10,4,40,2,3,5,0,0,0,0,0,0,2,0
+74,Arturo Calabresi\Arturo-Calabresi,it ITA,DFFW,Bologna,24,1996,0.2,0,0,0,0,0,0,0,,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+75,Davide Calabria\Davide-Calabria,it ITA,DF,Milan,23,1996,29.4,93,50,59,26,8,43,91,47.3,48,523,173,33.1,249,215,59,65,7,0,58,27,120,83,1
+76,Riccardo Calafiori\Riccardo-Calafiori,it ITA,DF,Roma,18,2002,0.7,3,2,3,0,0,1,4,25,3,21,7,33.3,11,6,4,3,0,0,3,1,4,1,0
+77,Mattia Caldara\Mattia-Caldara,it ITA,DF,Atalanta,26,1994,1.2,2,2,0,2,0,1,1,100,0,18,6,33.3,7,8,3,5,1,0,4,3,5,5,0
+78,Luca Caldirola\Luca-Caldirola,it ITA,DF,Benevento,29,1991,17.5,18,12,13,5,0,4,16,25,12,142,46,32.4,77,58,7,29,15,1,14,17,35,69,0
+79,Hakan Çalhanoğlu\Hakan-Calhanoglu,tr TUR,MFFW,Milan,26,1994,29,21,13,3,12,6,2,27,7.4,25,400,124,31,73,197,130,41,6,0,35,27,48,19,1
+80,Fabrizio Caligara\Fabrizio-Caligara,it ITA,MF,Cagliari,20,2000,2,4,3,1,2,1,3,10,30,7,73,14,19.2,18,40,15,8,3,0,5,3,7,4,0
+81,José Callejón\Jose-Callejon,es ESP,FWMF,Fiorentina,33,1987,7.4,6,2,1,2,3,4,11,36.4,7,73,29,39.7,10,30,33,4,1,0,3,7,13,6,0
+82,Drissa Camara\Drissa-Camara,ci CIV,MF,Parma,18,2002,0.2,0,0,0,0,0,0,0,,0,2,1,50,0,2,0,0,0,0,0,0,0,0,0
+83,Antonio Candreva\Antonio-Candreva,it ITA,MF,Sampdoria,33,1987,27.8,25,14,14,9,2,18,48,37.5,30,283,74,26.1,103,108,72,39,3,0,36,25,50,22,0
+84,Elio Capradossi\Elio-Capradossi,it ITA,DF,Spezia,24,1996,1,3,1,2,1,0,0,0,,0,17,3,17.6,12,4,1,0,0,0,0,4,7,8,0
+85,Gianluca Caprari\Gianluca-Caprari,it ITA,MFFW,Benevento,27,1993,20.7,20,16,7,7,6,3,25,12,22,251,70,27.9,38,129,84,26,1,0,25,30,50,7,0
+86,Francesco Caputo\Francesco-Caputo,it ITA,FW,Sassuolo,32,1987,18.9,1,1,0,1,0,0,3,0,3,128,39,30.5,2,47,79,9,3,0,6,4,5,2,0
+87,Andrea Carboni\Andrea-Carboni,it ITA,DF,Cagliari,19,2001,12.1,29,10,20,9,0,9,21,42.9,12,225,63,28,138,76,11,27,4,0,23,12,41,55,0
+88,Giuseppe Caso\Giuseppe-Caso,it ITA,MF,Genoa,21,1998,0.6,0,0,0,0,0,0,1,0,1,10,4,40,2,6,2,1,0,0,1,2,2,1,0
+89,Francesco Cassata\Francesco-Cassata,it ITA,DF,Genoa,23,1997,2.3,8,6,8,0,0,2,8,25,6,64,15,23.4,30,26,8,1,0,0,1,4,12,2,0
+90,Samu Castillejo\Samu-Castillejo,es ESP,FW,Milan,25,1995,13.1,28,17,12,13,3,17,41,41.5,24,328,82,25,65,163,100,18,0,0,18,13,41,9,0
+91,Gaetano Castrovilli\Gaetano-Castrovilli,it ITA,MF,Fiorentina,23,1997,25.9,44,29,24,11,9,13,39,33.3,26,509,168,33,192,205,112,37,4,0,33,31,75,23,0
+92,Danilo Cataldi\Danilo-Cataldi,it ITA,MF,Lazio,25,1994,6.3,9,7,2,5,2,2,21,9.5,19,124,34,27.4,34,65,25,5,1,0,4,9,18,4,0
+93,Federico Ceccherini\Federico-Ceccherini,it ITA,DF,Hellas Verona,28,1992,19.3,25,14,18,7,0,3,11,27.3,8,239,69,28.9,104,119,16,23,6,0,17,33,58,94,0
+94,Federico Ceccherini\Federico-Ceccherini,it ITA,DF,Fiorentina,28,1992,3,5,2,2,3,0,2,3,66.7,1,39,12,30.8,25,13,1,8,5,0,3,3,8,17,0
+95,Luca Ceppitelli\Luca-Ceppitelli,it ITA,DF,Cagliari,30,1989,16.3,27,17,15,10,2,9,21,42.9,12,142,48,33.8,81,52,9,29,14,0,15,23,50,80,1
+96,Alberto Cerri\Alberto-Cerri,it ITA,FW,Cagliari,24,1996,4.1,7,5,0,6,1,1,5,20,4,52,13,25,4,21,27,7,4,0,3,3,10,6,0
+97,Julian Chabot\Julian-Chabot,de GER,DF,Spezia,22,1998,18.4,52,36,28,22,2,17,34,50,17,234,94,40.2,128,100,6,33,12,1,21,24,76,99,1
+98,Giorgio Chiellini\Giorgio-Chiellini,it ITA,DF,Juventus,35,1984,15.4,17,12,14,3,0,5,14,35.7,9,114,49,43,75,36,3,27,16,0,11,21,38,65,1
+99,Federico Chiesa\Federico-Chiesa,it ITA,MFDF,Juventus,22,1997,24.6,58,40,24,20,14,22,50,44,28,397,131,33,137,147,113,27,1,0,26,11,69,21,0
+100,Federico Chiesa\Federico-Chiesa,it ITA,DF,Fiorentina,22,1997,2.7,4,2,1,2,1,1,5,20,4,44,8,18.2,13,19,12,3,1,0,2,1,5,2,0
+101,Vlad Chiricheș\Vlad-Chiriches,ro ROU,DF,Sassuolo,30,1989,20.4,40,20,36,3,1,11,24,45.8,13,234,74,31.6,137,89,8,45,19,0,26,34,74,76,0
+102,Luca Cigarini\Luca-Cigarini,it ITA,MF,Crotone,34,1986,10.3,25,17,9,14,2,12,34,35.3,22,168,53,31.5,62,85,21,16,1,0,15,10,35,8,1
+103,Antonio Cioffi\Antonio-Cioffi,it ITA,FW,Napoli,17,2002,0.1,0,0,0,0,0,0,0,,0,4,2,50,1,3,0,2,0,0,2,1,1,0,0
+104,Ebrima Colley\Ebrima-Colley,gm GAM,FWMF,Hellas Verona,20,2000,8.2,8,5,0,8,0,4,12,33.3,8,133,39,29.3,27,53,53,9,0,0,9,2,10,1,0
+105,Omar Colley\Omar-Colley,gm GAM,DF,Sampdoria,27,1992,28.8,40,24,26,12,2,10,21,47.6,11,245,88,35.9,149,88,8,47,30,2,17,52,92,177,2
+106,Simone Colombi\Simone-Colombi,it ITA,GK,Parma,29,1991,2,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+107,Lorenzo Colombo\Lorenzo-Colombo,it ITA,FW,Milan,18,2002,1,2,2,1,1,0,0,2,0,2,32,6,18.8,5,20,7,0,0,0,0,1,3,2,0
+108,Andrea Consigli\Andrea-Consigli,it ITA,GK,Sassuolo,33,1987,37,0,0,0,0,0,0,1,0,1,9,1,11.1,9,0,0,0,0,0,0,0,0,2,0
+109,Andrea Conti\Andrea-Conti,it ITA,DF,Parma,26,1994,9,30,18,20,8,2,10,30,33.3,20,128,37,28.9,70,43,15,17,4,0,13,24,54,18,0
+110,Andrea Conti\Andrea-Conti,it ITA,DF,Milan,26,1994,0.3,1,1,1,0,0,0,0,,0,8,4,50,5,2,1,1,0,0,1,1,2,1,0
+111,Alex Cordaz\Alex-Cordaz,it ITA,GK,Crotone,37,1983,36,0,0,0,0,0,0,1,0,1,3,1,33.3,3,0,0,0,0,0,0,0,0,2,2
+112,Andreas Cornelius\Andreas-Cornelius,dk DEN,FW,Parma,27,1993,21.1,9,5,1,3,5,2,12,16.7,10,274,66,24.1,22,101,151,11,3,0,8,1,10,29,1
+113,Joaquín Correa\Joaquin-Correa,ar ARG,FW,Lazio,25,1994,21.5,17,10,4,9,4,6,25,24,19,339,108,31.9,37,155,147,13,0,0,13,9,26,7,0
+114,Félix Correia\Felix-Correia,pt POR,MF,Juventus,19,2001,0.1,0,0,0,0,0,0,0,,0,7,0,0,2,3,2,0,0,0,0,0,0,0,0
+115,Angelo da Costa Júnior\Angelo-da-Costa-Junior,br BRA,GK,Bologna,36,1983,6,0,0,0,0,0,0,0,,0,1,1,100,1,0,0,0,0,0,0,0,0,0,1
+116,Douglas Costa\Douglas-Costa,br BRA,MFFW,Juventus,29,1990,0.5,1,0,1,0,0,1,3,33.3,2,8,1,12.5,1,4,3,0,0,0,0,1,2,0,0
+117,Mamadou Coulibaly\Mamadou-Coulibaly,sn SEN,MF,Udinese,21,1999,2,10,7,4,6,0,0,2,0,2,36,6,16.7,8,24,4,3,1,0,2,1,11,0,0
+118,Alessio Cragno\Alessio-Cragno,it ITA,GK,Cagliari,26,1994,34,0,0,0,0,0,0,3,0,3,7,1,14.3,7,0,0,0,0,0,0,0,0,1,1
+119,Gian Crespi\Gian-Crespi,it ITA,GK,Crotone,19,2001,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+120,Domenico Criscito\Domenico-Criscito,it ITA,DF,Genoa,33,1986,19.2,43,27,31,9,3,10,28,35.7,18,238,71,29.8,131,94,13,27,14,0,13,35,78,77,1
+121,Bryan Cristante\Bryan-Cristante,it ITA,DFMF,Roma,25,1995,23.9,38,31,17,18,3,8,26,30.8,18,375,108,28.8,133,172,70,29,9,0,20,34,72,76,2
+122,Giovanni Crociata\Giovanni-Crociata,it ITA,DFMF,Crotone,22,1997,0.3,2,1,1,1,0,1,1,100,0,12,1,8.3,3,7,2,1,0,0,1,0,2,0,0
+123,Juan Cuadrado\Juan-Cuadrado,co COL,DFMF,Juventus,32,1988,24.2,42,21,24,13,5,14,40,35,26,287,84,29.3,134,93,60,35,2,0,33,31,73,22,1
+124,Giuseppe Cuomo\Giuseppe-Cuomo,it ITA,DF,Crotone,22,1998,8.9,27,14,19,8,0,13,22,59.1,9,136,52,38.2,75,52,9,16,4,0,12,15,42,35,0
+125,Patrick Cutrone\Patrick-Cutrone,it ITA,FWMF,Fiorentina,22,1998,2.2,3,2,2,1,0,0,4,0,4,63,11,17.5,11,30,22,3,0,0,3,0,3,0,0
+126,Wylan Cyprien\Wylan-Cyprien,fr FRA,MF,Parma,25,1995,4.6,10,6,7,3,0,2,6,33.3,4,69,18,26.1,33,30,6,13,6,0,7,3,13,11,2
+127,Lennart-Marten Czyborra\Lennart-Marten-Czyborra,de GER,DF,Genoa,21,1999,13,15,7,6,5,4,7,19,36.8,12,160,38,23.8,70,58,32,25,3,0,22,12,27,33,0
+128,Danilo D'Ambrosio\Danilo-DAmbrosio,it ITA,DF,Inter,31,1988,7.8,16,11,6,8,2,6,13,46.2,7,93,34,36.6,32,48,13,13,7,0,6,6,22,16,0
+129,Bryan Dabo\Bryan-Dabo,bf BFA,MF,Benevento,28,1992,12.4,15,8,9,4,2,6,17,35.3,11,181,52,28.7,59,93,29,15,2,0,13,14,29,18,0
+130,Diogo Dalot\Diogo-Dalot,pt POR,DF,Milan,21,1999,12.1,37,17,26,9,2,23,37,62.2,14,180,38,21.1,98,61,21,26,5,0,21,18,55,54,0
+131,Mikkel Damsgaard\Mikkel-Damsgaard,dk DEN,MFFW,Sampdoria,20,2000,19.7,50,28,17,25,8,16,74,21.6,58,575,148,25.7,130,280,165,43,4,0,39,28,78,13,0
+132,Danilo\Danilo,br BRA,DF,Juventus,29,1991,32.4,60,37,39,13,8,24,59,40.7,35,249,80,32.1,134,85,30,54,13,0,41,44,104,82,0
+133,Andrea Danzi\Andrea-Danzi,it ITA,MFDF,Hellas Verona,21,1999,1.2,0,0,0,0,0,0,1,0,1,5,2,40,2,3,0,1,1,0,0,1,1,2,0
+134,Ebrima Darboe\Ebrima-Darboe,gm GAM,MF,Roma,19,2001,3.6,6,4,1,3,2,2,11,18.2,9,67,21,31.3,13,43,11,3,0,0,3,13,19,0,1
+135,Matteo Darmian\Matteo-Darmian,it ITA,DF,Parma,30,1989,2.3,6,3,3,3,0,3,8,37.5,5,40,11,27.5,22,17,1,3,0,0,3,3,9,11,0
+136,Matteo Darmian\Matteo-Darmian,it ITA,DF,Inter,30,1989,12.9,26,13,14,4,8,10,25,40,15,176,45,25.6,66,61,49,15,1,0,14,16,42,30,0
+137,Paweł Dawidowicz\Pawel-Dawidowicz,pl POL,DF,Hellas Verona,25,1995,20.7,42,30,26,13,3,13,26,50,13,297,87,29.3,146,130,21,37,19,0,18,26,68,99,0
+138,Sebastien De Maio\Sebastien-De-Maio,fr FRA,DF,Udinese,33,1987,9.5,20,13,8,12,0,4,5,80,1,111,40,36,74,34,3,17,11,1,6,13,33,45,0
+139,Rodrigo De Paul\Rodrigo-De-Paul,ar ARG,MF,Udinese,26,1994,35.6,44,29,21,21,2,20,62,32.3,42,489,135,27.6,190,193,106,59,2,0,57,19,63,22,1
+140,Mattia De Sciglio\Mattia-De-Sciglio,it ITA,DF,Juventus,27,1992,0.3,0,0,0,0,0,0,0,,0,3,1,33.3,3,0,0,1,0,0,1,0,0,1,0
+141,Lorenzo De Silvestri\Lorenzo-De-Silvestri,it ITA,DF,Bologna,32,1988,23.8,37,17,21,12,4,15,37,40.5,22,279,79,28.3,129,108,42,67,9,0,58,28,65,73,2
+142,Grégoire Defrel\Gregoire-Defrel,mq MTQ,FWMF,Sassuolo,29,1991,14.9,17,12,6,3,8,3,9,33.3,6,235,65,27.7,35,101,99,16,1,0,15,8,25,2,1
+143,Alessandro Deiola\Alessandro-Deiola,it ITA,MF,Spezia,24,1995,4,9,6,5,4,0,5,9,55.6,4,78,20,25.6,21,43,14,4,1,0,3,2,11,2,0
+144,Alessandro Deiola\Alessandro-Deiola,it ITA,MF,Cagliari,24,1995,6.8,13,7,7,2,4,4,18,22.2,14,128,27,21.1,52,57,19,12,3,0,9,15,28,17,0
+145,Lorenzo Del Pinto\Lorenzo-Del-Pinto,it ITA,MF,Benevento,30,1990,0.1,0,0,0,0,0,0,1,0,1,3,0,0,1,0,2,0,0,0,0,0,0,1,0
+146,Cristian Dell'Orco\Cristian-DellOrco,it ITA,DF,Spezia,26,1994,2.9,1,1,1,0,0,1,2,50,1,18,7,38.9,8,5,5,11,6,0,5,4,5,7,0
+147,Merih Demiral\Merih-Demiral,tr TUR,DF,Juventus,22,1998,10.4,17,11,12,5,0,3,9,33.3,6,106,31,29.2,61,37,8,18,8,0,10,12,29,39,0
+148,Diego Demme\Diego-Demme,de GER,MF,Napoli,28,1991,17.7,62,37,24,29,9,18,63,28.6,45,428,125,29.2,134,216,78,16,1,0,15,17,79,23,0
+149,Stefano Denswil\Stefano-Denswil,nl NED,DF,Bologna,27,1993,1.3,2,2,0,1,1,1,2,50,1,21,7,33.3,14,6,1,3,0,0,3,1,3,4,0
+150,Fabio Depaoli\Fabio-Depaoli,it ITA,DF,Benevento,23,1997,12.4,29,15,15,8,6,15,29,51.7,14,219,69,31.5,104,81,34,31,6,0,25,16,45,39,1
+151,Fabio Depaoli\Fabio-Depaoli,it ITA,MF,Sampdoria,23,1997,0.9,1,0,0,0,1,1,3,33.3,2,18,4,22.2,8,6,4,0,0,0,0,0,1,2,0
+152,Fabio Depaoli\Fabio-Depaoli,it ITA,DF,Atalanta,23,1997,2.1,3,1,0,0,3,0,2,0,2,31,9,29,9,10,12,9,0,0,9,1,4,3,0
+153,Kastriot Dermaku\Kastriot-Dermaku,al ALB,DF,Parma,28,1992,1.1,1,0,0,1,0,0,0,,0,11,3,27.3,7,4,0,3,1,0,2,1,2,8,0
+154,Kiril Despodov\Kiril-Despodov,bg BUL,FW,Cagliari,23,1996,0.1,1,0,0,1,0,1,1,100,0,5,2,40,0,2,3,1,0,0,1,0,1,0,0
+155,Mattia Destro\Mattia-Destro,it ITA,FW,Genoa,29,1991,17.8,10,7,1,4,5,2,9,22.2,7,267,65,24.3,22,110,135,16,1,0,15,2,12,11,0
+156,Gerard Deulofeu\Gerard-Deulofeu,es ESP,FW,Udinese,26,1994,6.6,2,2,0,0,2,1,10,10,9,118,30,25.4,19,48,51,2,0,0,2,3,5,0,0
+157,Jacopo Dezi\Jacopo-Dezi,it ITA,FWMF,Parma,28,1992,0.9,2,1,0,1,1,1,4,25,3,22,3,13.6,3,12,7,4,0,0,4,1,3,0,0
+158,Samuel Di Carmine\Samuel-Di-Carmine,it ITA,FW,Hellas Verona,31,1988,5.6,0,0,0,0,0,0,3,0,3,64,16,25,4,23,37,1,1,0,0,0,0,7,0
+159,Samuel Di Carmine\Samuel-Di-Carmine,it ITA,FW,Crotone,31,1988,5.3,5,2,2,1,2,1,3,33.3,2,47,8,17,6,27,14,3,0,0,3,1,6,5,0
+160,Giovanni Di Lorenzo\Giovanni-Di-Lorenzo,it ITA,DF,Napoli,26,1993,36,85,57,53,24,8,38,78,48.7,40,437,141,32.3,199,153,85,65,13,0,52,40,125,64,0
+161,Alessandro Di Pardo\Alessandro-Di-Pardo,it ITA,MFDF,Juventus,21,1999,0.2,0,0,0,0,0,0,0,,0,1,1,100,1,0,0,1,1,0,0,0,0,0,0
+162,Giuseppe Di Serio\Giuseppe-Di-Serio,it ITA,FWMF,Benevento,19,2001,3.2,2,2,2,0,0,1,6,16.7,5,64,10,15.6,17,28,19,4,0,0,4,1,3,1,0
+163,Amad Diallo\Amad-Diallo,ci CIV,MF,Atalanta,18,2002,0.2,0,0,0,0,0,0,0,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+164,Amadou Diambo\Amadou-Diambo,gh GHA,FW,Benevento,19,2001,0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+165,Amadou Diawara\Amadou-Diawara,gn GUI,MF,Roma,23,1997,7.3,14,12,5,9,0,4,12,33.3,8,195,42,21.5,50,127,18,11,2,0,9,9,23,11,0
+166,Brahim Díaz\Brahim-Diaz,es ESP,MFFW,Milan,20,1999,13.6,22,20,10,9,3,5,16,31.3,11,272,76,27.9,53,126,93,12,1,0,11,6,28,2,0
+167,Daan Dierckx\Daan-Dierckx,be BEL,DF,Parma,17,2003,5.2,6,5,5,1,0,2,4,50,2,55,17,30.9,32,20,3,13,7,0,6,11,17,25,0
+168,Mitchell Dijks\Mitchell-Dijks,nl NED,DF,Bologna,27,1993,16.5,30,17,21,6,3,13,22,59.1,9,227,74,32.6,101,86,40,28,2,0,26,20,50,36,0
+169,Federico Dimarco\Federico-Dimarco,it ITA,DF,Hellas Verona,22,1997,29,40,25,22,16,2,10,29,34.5,19,275,88,32,113,116,46,43,10,0,33,42,82,77,1
+170,Koffi Djidji\Koffi-Djidji,ci CIV,DF,Crotone,27,1992,16.9,47,22,33,10,4,7,20,35,13,275,77,28,160,95,20,49,22,1,27,28,75,84,0
+171,Berat Djimsiti\Berat-Djimsiti,al ALB,DF,Atalanta,27,1993,29.2,41,26,24,14,3,16,36,44.4,20,308,122,39.6,135,139,34,49,19,1,30,48,89,116,0
+172,Nicolás Domínguez\Nicolas-Dominguez,ar ARG,MF,Bologna,22,1998,13.9,52,35,30,18,4,11,28,39.3,17,350,92,26.3,147,153,50,31,7,0,24,25,77,21,0
+173,Gianluigi Donnarumma\Gianluigi-Donnarumma,it ITA,GK,Milan,21,1999,37,0,0,0,0,0,0,1,0,1,0,0,,0,0,0,0,0,0,0,0,0,1,1
+174,Bartłomiej Drągowski\Bartlomiej-Dragowski,pl POL,GK,Fiorentina,22,1997,35,0,0,0,0,0,0,0,,0,8,2,25,8,0,0,0,0,0,0,0,0,0,1
+175,Denis Drăguș\Denis-Dragus,ro ROU,FWMF,Crotone,21,1999,2,3,3,0,0,3,0,5,0,5,47,13,27.7,9,19,19,4,0,0,4,1,4,0,0
+176,Radu Drăgușin\Radu-Dragusin,ro ROU,DF,Juventus,18,2002,0,0,0,0,0,0,0,0,,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0
+177,Léo Duarte\Leo-Duarte,br BRA,DF,Milan,24,1996,0.2,1,1,0,1,0,0,0,,0,5,3,60,3,2,0,1,0,0,1,0,1,0,0
+178,Alfred Duncan\Alfred-Duncan,gh GHA,MF,Cagliari,27,1993,11.9,23,15,13,8,2,6,17,35.3,11,208,55,26.4,77,106,25,8,0,0,8,16,39,14,0
+179,Alfred Duncan\Alfred-Duncan,gh GHA,MF,Fiorentina,27,1993,1.8,1,1,0,1,0,0,2,0,2,20,5,25,4,9,7,2,0,0,2,3,4,4,0
+180,Paulo Dybala\Paulo-Dybala,ar ARG,FW,Juventus,26,1993,12.6,15,11,3,7,5,2,12,16.7,10,205,57,27.8,26,83,96,16,0,0,16,3,18,1,0
+181,Edin Džeko\Edin-Dzeko,ba BIH,FW,Roma,34,1986,20.3,7,7,2,2,3,3,11,27.3,8,190,55,28.9,7,83,100,15,5,0,10,4,11,11,0
+182,Steeve-Mike Ebongue\Steeve-Mike-Ebongue,fr FRA,MF,Genoa,19,2001,0.6,1,1,0,0,1,0,2,0,2,16,7,43.8,7,5,4,1,0,0,1,1,2,1,0
+183,Simone Edera\Simone-Edera,it ITA,DFMF,Torino,23,1997,0.6,3,0,2,1,0,3,4,75,1,10,3,30,6,4,0,0,0,0,0,0,3,1,0
+184,Albin Ekdal\Albin-Ekdal,se SWE,MF,Sampdoria,31,1989,25.5,62,49,20,35,7,20,66,30.3,46,586,177,30.2,183,321,82,53,13,0,40,34,96,44,0
+185,Elif Elmas\Elif-Elmas,mk MKD,MFFW,Napoli,20,1999,8.2,15,9,5,6,4,7,17,41.2,10,140,38,27.1,31,66,43,13,1,0,12,5,20,4,0
+186,Manu Emmanuel Gyabuaa\Manu-Emmanuel-Gyabuaa,it ITA,MF,Atalanta,18,2001,0,0,0,0,0,0,0,0,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+187,Alan Empereur\Alan-Empereur,br BRA,DF,Hellas Verona,26,1994,2.4,2,1,2,0,0,1,2,50,1,15,6,40,8,6,1,2,1,0,1,5,7,5,2
+188,Christian Eriksen\Christian-Eriksen,dk DEN,MF,Inter,28,1992,15.4,12,8,8,2,2,5,21,23.8,16,177,51,28.8,52,77,48,22,2,0,20,10,22,14,1
+189,Martin Erlic\Martin-Erlic,hr CRO,DF,Spezia,22,1998,20,26,18,18,8,0,13,19,68.4,6,219,83,37.9,118,93,8,28,15,0,13,30,56,105,4
+190,Gonzalo Escalante\Gonzalo-Escalante,ar ARG,MF,Lazio,27,1993,8.1,28,19,11,15,2,9,30,30,21,170,62,36.5,71,86,13,12,2,0,10,9,37,23,0
+191,Nahuel Estévez\Nahuel-Estevez,ar ARG,MF,Spezia,24,1995,19.6,17,13,6,8,3,4,34,11.8,30,315,84,26.7,78,163,74,25,5,0,20,32,49,29,0
+192,Valentin Eysseric\Valentin-Eysseric,fr FRA,MFFW,Fiorentina,28,1992,8.1,18,10,7,10,1,6,14,42.9,8,162,33,20.4,56,78,28,13,0,0,13,9,27,5,0
+193,Nicolò Fagioli\Nicolo-Fagioli,it ITA,MF,Juventus,19,2001,0.2,0,0,0,0,0,0,0,,0,5,2,40,1,3,1,1,0,0,1,0,0,0,0
+194,Iago Falque\Iago-Falque,es ESP,MFFW,Benevento,30,1990,4,4,2,2,1,1,1,5,20,4,39,15,38.5,12,15,12,3,1,0,2,3,7,2,0
+195,Andri Fannar Baldursson\Andri-Fannar-Baldursson,is ISL,MF,Bologna,18,2002,2.4,5,3,3,1,1,1,3,33.3,2,74,12,16.2,27,34,13,5,1,0,4,1,6,8,0
+196,Paolo Faragò\Paolo-Farago,it ITA,DFMF,Cagliari,27,1993,4.1,11,3,5,6,0,6,18,33.3,12,73,15,20.5,34,25,14,6,2,0,4,9,20,18,0
+197,Paolo Faragò\Paolo-Farago,it ITA,DF,Bologna,27,1993,0.3,0,0,0,0,0,0,2,0,2,6,2,33.3,2,2,2,1,0,0,1,0,0,0,0
+198,Davide Faraoni\Davide-Faraoni,it ITA,DF,Hellas Verona,28,1991,32.1,71,37,44,20,7,29,69,42,40,393,103,26.2,180,134,79,79,17,0,62,56,127,93,1
+199,Mohamed Fares\Mohamed-Fares,dz ALG,DF,Lazio,24,1996,12.7,18,9,8,7,3,7,20,35,13,174,35,20.1,55,77,42,31,1,0,30,13,31,14,0
+200,Diego Farias\Diego-Farias,br BRA,FW,Spezia,30,1990,16.8,12,8,5,2,5,3,19,15.8,16,199,47,23.6,45,86,68,17,0,0,17,13,25,3,0
+201,Andrea Favilli\Andrea-Favilli,it ITA,FW,Hellas Verona,23,1997,3.8,3,3,0,1,2,1,2,50,1,40,14,35,1,14,25,3,1,0,2,0,3,3,0
+202,Federico Fazio\Federico-Fazio,ar ARG,DF,Roma,33,1987,4.5,5,4,3,2,0,1,2,50,1,39,14,35.9,18,17,4,9,4,1,5,5,10,32,0
+203,Luiz Felipe\Luiz-Felipe,br BRA,DF,Lazio,23,1997,10.1,37,26,29,7,1,16,27,59.3,11,121,44,36.4,67,48,6,22,10,0,12,21,58,27,1
+204,Alex Ferrari\Alex-Ferrari,it ITA,DF,Sampdoria,26,1994,9.8,32,23,20,11,1,11,24,45.8,13,146,67,45.9,74,60,12,17,7,0,10,17,49,34,0
+205,Salvador Ferrer\Salvador-Ferrer,es ESP,DF,Spezia,22,1998,13.2,,9,,,,,,,,,,,,,,,,,,22,,,
+206,Marco Festa\Marco-Festa,it ITA,GK,Crotone,28,1992,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+207,Fernando Forestieri\Fernando-Forestieri,it ITA,FWMF,Udinese,30,1990,6.1,12,9,6,4,2,2,4,50,2,117,39,33.3,18,45,54,7,0,0,7,1,13,2,0
+208,Daam Foulon\Daam-Foulon,be BEL,DF,Benevento,21,1999,11.3,23,8,18,5,0,12,27,44.4,15,137,39,28.5,84,43,10,27,3,0,24,7,30,30,0
+209,Gianluca Frabotta\Gianluca-Frabotta,it ITA,DF,Juventus,21,1999,7.7,7,6,4,2,1,2,12,16.7,10,98,26,26.5,38,36,24,15,2,0,13,12,19,17,0
+210,Remo Freuler\Remo-Freuler,ch SUI,MF,Atalanta,28,1992,30.1,74,56,23,38,13,22,71,31,49,639,188,29.4,150,326,163,52,4,0,48,50,124,39,0
+211,Daniel Fuzato\Daniel-Fuzato,br BRA,GK,Roma,23,1997,5,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+212,Matteo Gabbia\Matteo-Gabbia,it ITA,DF,Milan,20,1999,6.2,6,4,1,5,0,0,1,0,1,62,21,33.9,26,33,3,12,8,0,4,5,11,26,0
+213,Manolo Gabbiadini\Manolo-Gabbiadini,it ITA,FW,Sampdoria,28,1991,9.7,3,3,0,2,1,1,5,20,4,112,28,25,11,42,59,3,1,0,2,3,6,6,0
+214,Roberto Gagliardini\Roberto-Gagliardini,it ITA,MF,Inter,26,1994,13.7,29,17,13,11,5,8,32,25,24,236,63,26.7,92,104,40,19,3,0,16,15,44,16,0
+215,Riccardo Gagliolo\Riccardo-Gagliolo,se SWE,DF,Parma,30,1990,21.7,58,29,40,13,5,21,38,55.3,17,246,78,31.7,153,70,23,46,8,0,38,30,88,61,0
+216,Adolfo Gaich\Adolfo-Gaich,ar ARG,FW,Benevento,21,1999,8.5,10,3,2,7,1,0,9,0,9,203,40,19.7,15,114,74,8,0,0,8,5,15,4,0
+217,Andrey Galabinov\Andrey-Galabinov,bg BUL,FW,Spezia,31,1988,4.8,1,1,1,0,0,1,1,100,0,58,16,27.6,2,30,26,2,0,0,2,0,1,4,0
+218,Manuel Gasparini\Manuel-Gasparini,it ITA,GK,Udinese,18,2002,0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+219,Gervinho\Gervinho,ci CIV,FW,Parma,33,1987,22.5,6,4,3,3,0,1,12,8.3,11,198,46,23.2,42,77,79,10,2,0,8,13,19,3,0
+220,Paolo Ghiglione\Paolo-Ghiglione,it ITA,DFMF,Genoa,23,1997,15.1,30,15,19,10,1,12,30,40,18,190,56,29.5,73,79,38,25,2,0,23,16,46,31,0
+221,Faouzi Ghoulam\Faouzi-Ghoulam,dz ALG,DFFW,Napoli,29,1991,3.2,4,1,3,1,0,0,1,0,1,32,7,21.9,9,16,7,5,3,0,2,2,6,3,0
+222,Kamil Glik\Kamil-Glik,pl POL,DF,Benevento,32,1988,35.6,58,34,43,14,1,22,51,43.1,29,305,121,39.7,203,91,11,58,37,0,21,39,97,220,1
+223,Diego Godín\Diego-Godin,uy URU,DF,Cagliari,34,1986,27.9,62,33,48,14,0,21,43,48.8,22,276,103,37.3,179,90,7,51,21,0,30,44,106,184,1
+224,Amer Gojak\Amer-Gojak,ba BIH,MFFW,Torino,23,1997,5.3,5,4,2,2,1,1,8,12.5,7,79,25,31.6,14,44,21,5,0,0,5,4,9,4,0
+225,Edoardo Goldaniga\Edoardo-Goldaniga,it ITA,DF,Genoa,26,1993,20.6,34,21,24,9,1,12,23,52.2,11,209,66,31.6,115,81,13,24,7,0,17,29,63,92,2
+226,Vladimir Golemić\Vladimir-Golemic,si SVN,DF,Crotone,29,1991,26,34,18,22,8,4,10,24,41.7,14,289,103,35.6,173,104,12,54,28,0,26,27,61,127,1
+227,Pierluigi Gollini\Pierluigi-Gollini,it ITA,GK,Atalanta,25,1995,24,0,0,0,0,0,0,1,0,1,4,2,50,4,0,0,1,0,0,1,1,1,1,0
+228,Tomislav Gomelt\Tomislav-Gomelt,hr CRO,MF,Crotone,25,1995,0.2,2,2,1,0,1,0,2,0,2,8,2,25,2,4,2,0,0,0,0,0,2,0,0
+229,Papu Gómez\Papu-Gomez,ar ARG,FWMF,Atalanta,32,1988,7.4,5,4,2,2,1,0,5,0,5,86,22,25.6,11,50,25,6,1,0,5,3,8,1,0
+230,Robin Gosens\Robin-Gosens,de GER,DF,Atalanta,26,1994,28,56,28,22,24,10,11,41,26.8,30,368,98,26.6,88,170,110,53,8,1,45,43,99,40,1
+231,Alberto Grassi\Alberto-Grassi,it ITA,MFDF,Parma,25,1995,13.1,24,13,16,5,3,10,29,34.5,19,223,54,24.2,95,89,39,38,9,0,29,22,46,32,0
+232,Koray Günter\Koray-Gunter,de GER,DF,Hellas Verona,25,1994,19.6,32,17,17,14,1,5,12,41.7,7,193,71,36.8,96,91,6,44,30,1,14,48,80,140,1
+233,Emmanuel Gyasi\Emmanuel-Gyasi,gh GHA,FW,Spezia,26,1994,31.7,32,20,15,11,6,8,21,38.1,13,405,124,30.6,91,169,145,20,3,0,17,23,55,6,0
+234,Achraf Hakimi\Achraf-Hakimi,ma MAR,DF,Inter,21,1998,29.6,51,29,26,17,8,24,56,42.9,32,500,145,29,183,170,147,40,1,0,39,25,76,28,0
+235,Samir Handanović\Samir-Handanovic,si SVN,GK,Inter,36,1984,36,0,0,0,0,0,0,0,,0,3,1,33.3,3,0,0,0,0,0,0,0,0,0,2
+236,Lukáš Haraslín\Lukas-Haraslin,sk SVK,FWMF,Sassuolo,24,1996,3.7,10,5,2,6,2,3,6,50,3,58,15,25.9,16,24,18,4,0,0,4,2,12,4,0
+237,Hans Hateboer\Hans-Hateboer,nl NED,DF,Atalanta,26,1994,19.6,27,15,11,14,2,10,24,41.7,14,208,68,32.7,54,85,69,17,1,0,16,14,41,14,0
+238,Eduardo Henrique\Eduardo-Henrique,br BRA,MF,Crotone,25,1995,10.3,7,2,3,3,1,2,11,18.2,9,142,32,22.5,44,64,34,13,2,0,11,10,17,10,0
+239,Theo Hernández\Theo-Hernandez,fr FRA,DF,Milan,22,1997,32.6,65,43,32,28,5,21,38,55.3,17,385,121,31.4,163,166,56,60,8,0,52,45,110,58,2
+240,Hernani\Hernani,br BRA,MF,Parma,26,1994,24.3,55,26,26,26,3,27,64,42.2,37,626,133,21.2,196,330,100,50,5,0,45,20,75,44,1
+241,Përparim Hetemaj\Perparim-Hetemaj,fi FIN,MF,Benevento,33,1986,24.6,59,37,38,17,4,35,76,46.1,41,496,126,25.4,219,207,70,49,5,0,44,32,91,27,0
+242,Aaron Hickey\Aaron-Hickey,sct SCO,DF,Bologna,18,2002,8.4,13,6,10,2,1,6,17,35.3,11,94,33,35.1,45,34,15,17,2,0,15,12,25,15,0
+243,Wesley Hoedt\Wesley-Hoedt,nl NED,DF,Lazio,26,1994,10.6,28,14,23,5,0,12,19,63.2,7,103,24,23.3,73,30,0,18,6,0,12,12,40,65,1
+244,Elseid Hysaj\Elseid-Hysaj,al ALB,DF,Napoli,26,1994,19.6,30,18,20,9,1,14,36,38.9,22,234,67,28.6,107,90,37,35,4,0,31,35,65,51,1
+245,Simone Iacoponi\Simone-Iacoponi,it ITA,DF,Parma,33,1987,13.3,23,16,14,8,1,7,20,35,13,147,41,27.9,85,49,13,24,3,0,21,7,30,48,1
+246,Roger Ibanez\Roger-Ibanez,br BRA,DF,Roma,21,1998,26.6,67,50,39,23,5,20,37,54.1,17,356,130,36.5,190,134,32,62,21,1,41,60,127,117,0
+247,Zlatan Ibrahimović\Zlatan-Ibrahimovic,se SWE,FW,Milan,38,1981,16.6,7,5,0,4,3,2,10,20,8,120,36,30,4,54,62,6,3,0,3,7,14,27,1
+248,Igor\Igor,br BRA,DF,Fiorentina,22,1998,13,24,11,12,12,0,6,12,50,6,119,40,33.6,48,60,11,23,8,0,15,28,52,40,2
+249,Ivan Ilić\Ivan-Ilic,rs SRB,MF,Hellas Verona,19,2001,20.4,24,14,7,12,5,6,23,26.1,17,270,84,31.1,67,140,63,28,4,0,24,31,55,25,0
+250,Josip Iličić\Josip-Ilicic,si SVN,FWMF,Atalanta,32,1988,17,9,4,1,3,5,3,19,15.8,16,194,54,27.8,16,75,103,13,0,0,13,6,15,2,2
+251,Ciro Immobile\Ciro-Immobile,it ITA,FW,Lazio,30,1990,31.7,15,9,5,3,7,5,23,21.7,18,440,129,29.3,54,159,227,15,0,0,15,5,20,6,0
+252,Riccardo Improta\Riccardo-Improta,it ITA,MFDF,Benevento,26,1993,25.9,39,23,23,11,5,14,38,36.8,24,378,97,25.7,169,150,59,35,5,0,30,33,72,47,0
+253,Roberto Inglese\Roberto-Inglese,it ITA,FW,Parma,28,1991,6.4,5,4,1,1,3,1,10,10,9,95,19,20,15,48,32,10,1,0,9,1,6,4,0
+254,Lorenzo Insigne\Lorenzo-Insigne,it ITA,FW,Napoli,29,1991,31.8,27,12,8,13,6,11,79,13.9,68,374,94,25.1,126,150,98,33,2,0,31,49,76,11,1
+255,Roberto Insigne\Roberto-Insigne,it ITA,MFFW,Benevento,26,1994,17.8,18,7,7,5,6,9,29,31,20,196,49,25,46,72,78,15,0,0,15,7,25,14,0
+256,Artur Ioniță\Artur-Ionita,md MDA,MF,Benevento,29,1990,31.5,51,35,19,27,5,15,56,26.8,41,543,159,29.3,141,299,103,44,13,0,31,35,86,31,0
+257,Ardian Ismajli\Ardian-Ismajli,al ALB,DF,Spezia,23,1996,14.4,19,12,12,6,1,8,17,47.1,9,134,47,35.1,69,62,3,12,6,0,6,24,43,92,2
+258,Armando Izzo\Armando-Izzo,it ITA,DF,Torino,28,1992,22.3,33,24,18,13,2,12,36,33.3,24,250,78,31.2,115,109,26,32,12,0,20,53,86,111,0
+259,Mato Jajalo\Mato-Jajalo,ba BIH,MF,Udinese,32,1988,0.4,2,2,2,0,0,0,0,,0,4,3,75,4,0,0,1,0,0,1,0,2,3,1
+260,Jakub Jankto\Jakub-Jankto,cz CZE,MF,Sampdoria,24,1996,26.8,22,10,12,8,2,9,36,25,27,378,84,22.2,97,162,119,42,3,0,39,19,41,30,0
+261,Juan Jesus\Juan-Jesus,br BRA,DF,Roma,29,1991,1.7,5,2,4,1,0,3,4,75,1,19,6,31.6,11,5,3,3,0,0,3,0,5,5,0
+262,Hamed Junior Traorè\Hamed-Junior-Traore,ci CIV,FWMF,Sassuolo,20,2000,19.9,37,24,14,12,11,14,32,43.8,18,344,104,30.2,78,151,115,20,4,1,16,18,55,14,1
+263,Musa Juwara\Musa-Juwara,gm GAM,DF,Bologna,18,2001,0.5,3,0,2,1,0,2,3,66.7,1,7,1,14.3,3,3,1,0,0,0,0,0,3,0,0
+264,Nikola Kalinić\Nikola-Kalinic,hr CRO,FW,Hellas Verona,32,1988,11.8,2,1,1,1,0,0,3,0,3,133,38,28.6,7,34,92,4,0,0,4,1,3,6,0
+265,Yayah Kallon\Yayah-Kallon,sl SLE,MFFW,Genoa,19,2001,0.5,0,0,0,0,0,0,0,,0,6,0,0,1,3,2,0,0,0,0,0,0,0,0
+266,Pierre Kalulu\Pierre-Kalulu,fr FRA,DF,Milan,20,2000,8.1,21,13,11,7,3,5,9,55.6,4,127,39,30.7,61,50,16,14,4,0,10,15,36,25,0
+267,Yann Karamoh\Yann-Karamoh,fr FRA,FWMF,Parma,22,1998,14.4,26,20,9,12,5,10,24,41.7,14,239,62,25.9,48,108,83,11,1,0,10,7,33,7,0
+268,Isaac Karamoko\Isaac-Karamoko,fr FRA,DF,Sassuolo,18,2002,0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+269,Augustus Kargbo\Augustus-Kargbo,sl SLE,FW,Crotone,20,1999,0.4,1,1,0,0,1,0,1,0,1,20,6,30,1,5,14,0,0,0,0,0,1,0,0
+270,Rick Karsdorp\Rick-Karsdorp,nl NED,DF,Roma,25,1995,28.3,46,29,22,20,4,13,46,28.3,33,328,99,30.2,125,126,77,28,1,0,27,33,79,33,0
+271,Franck Kessié\Franck-Kessie,ci CIV,MF,Milan,23,1996,35.8,72,44,45,19,8,26,42,61.9,16,535,160,29.9,171,278,86,75,18,0,57,43,115,59,0
+272,Omar Khailoti\Omar-Khailoti,it ITA,DF,Bologna,18,2001,0.3,0,0,0,0,0,0,0,,0,2,1,50,1,0,1,2,0,0,2,0,0,0,0
+273,Giorgos Kiriakopoulos\Giorgos-Kiriakopoulos,gr GRE,DF,Sassuolo,24,1996,16.2,46,26,27,12,7,15,32,46.9,17,206,62,30.1,94,74,38,30,6,0,24,14,60,44,1
+274,Simon Kjær\Simon-Kjaer,dk DEN,DF,Milan,31,1989,26.6,51,21,31,18,2,21,40,52.5,19,307,91,29.6,153,144,10,56,29,1,27,38,89,145,2
+275,Ragnar Klavan\Ragnar-Klavan,ee EST,DF,Cagliari,34,1985,8.6,16,5,8,7,1,6,9,66.7,3,105,29,27.6,62,39,4,13,5,0,8,7,23,41,0
+276,Justin Kluivert\Justin-Kluivert,nl NED,FWMF,Roma,21,1999,0.2,0,0,0,0,0,0,0,,0,8,1,12.5,2,3,3,0,0,0,0,0,0,0,0
+277,Aleksandr Kokorin\Aleksandr-Kokorin,ru RUS,FWMF,Fiorentina,29,1991,1,0,0,0,0,0,0,1,0,1,7,0,0,5,1,1,0,0,0,0,1,1,0,0
+278,Aleksandar Kolarov\Aleksandar-Kolarov,rs SRB,DF,Inter,34,1985,4.3,7,5,2,4,1,1,2,50,1,37,14,37.8,10,23,4,3,0,0,3,2,9,9,0
+279,Márk Kosznovszky\Mark-Kosznovszky,hu HUN,MF,Parma,18,2002,1,2,0,1,1,0,1,3,33.3,2,16,1,6.3,2,6,8,3,0,0,3,3,5,0,0
+280,Christian Kouamé\Christian-Kouame,ci CIV,FW,Fiorentina,22,1997,11.1,16,11,3,4,9,5,13,38.5,8,179,46,25.7,25,65,89,5,0,0,5,4,20,4,0
+281,Kalidou Koulibaly\Kalidou-Koulibaly,sn SEN,DF,Napoli,29,1991,24.5,45,29,27,16,2,17,36,47.2,19,249,101,40.6,144,89,16,54,28,1,26,30,75,98,2
+282,Viktor Kovalenko\Viktor-Kovalenko,ua UKR,FW,Atalanta,24,1996,0,0,0,0,0,0,0,0,,0,3,2,66.7,1,1,1,1,0,0,1,0,0,1,0
+283,Rade Krunić\Rade-Krunic,ba BIH,MFFW,Milan,26,1993,8,16,14,5,9,2,7,24,29.2,17,166,43,25.9,61,79,26,14,2,1,12,4,20,11,0
+284,Juraj Kucka\Juraj-Kucka,sk SVK,MFFW,Parma,33,1987,25.9,62,42,27,27,8,14,57,24.6,43,497,148,29.8,147,253,97,32,4,0,28,27,89,28,0
+285,Dejan Kulusevski\Dejan-Kulusevski,se SWE,MFFW,Juventus,20,2000,21.4,33,25,10,13,10,12,38,31.6,26,441,116,26.3,111,190,140,28,0,0,28,12,45,1,0
+286,Marash Kumbulla\Marash-Kumbulla,al ALB,DF,Roma,20,2000,15.1,13,10,8,4,1,3,16,18.8,13,196,75,38.3,95,90,11,17,5,0,12,15,28,53,0
+287,Jasmin Kurtić\Jasmin-Kurtic,si SVN,MF,Parma,31,1989,30.4,59,34,25,30,4,17,59,28.8,42,520,141,27.1,194,261,65,27,2,0,25,33,92,60,0
+288,Antonino La Gumina\Antonino-La-Gumina,it ITA,FW,Sampdoria,24,1996,3.8,3,3,0,1,2,0,0,,0,75,21,28,2,19,54,2,1,0,1,4,7,6,0
+289,Sam Lammers\Sam-Lammers,nl NED,FWMF,Atalanta,23,1997,3.2,3,3,0,2,1,0,5,0,5,44,12,27.3,2,18,24,1,1,0,0,0,3,3,0
+290,Gianluca Lapadula\Gianluca-Lapadula,pe PER,FW,Benevento,30,1990,28.5,28,20,2,14,12,6,24,25,18,360,83,23.1,27,165,168,18,6,0,12,7,35,12,0
+291,Danilo Larangeira\Danilo-Larangeira,br BRA,DF,Bologna,36,1984,34.8,44,21,29,15,0,9,29,31,20,329,107,32.5,196,126,7,82,36,1,46,42,86,179,4
+292,Kevin Lasagna\Kevin-Lasagna,it ITA,FW,Udinese,27,1992,12.3,6,3,1,3,2,1,11,9.1,10,183,41,22.4,23,75,85,10,1,0,9,7,13,7,0
+293,Kevin Lasagna\Kevin-Lasagna,it ITA,FW,Hellas Verona,27,1992,14.1,6,1,0,4,2,2,5,40,3,193,49,25.4,10,59,124,11,1,0,10,4,10,10,0
+294,Vincent Laurini\Vincent-Laurini,fr FRA,DF,Parma,31,1989,9.7,18,13,13,3,2,8,10,80,2,127,32,25.2,70,43,14,17,4,0,13,15,33,20,0
+295,Darko Lazović\Darko-Lazovic,rs SRB,DF,Hellas Verona,29,1990,27.8,27,20,8,16,3,13,40,32.5,27,209,67,32.1,60,88,61,39,9,0,30,20,47,36,0
+296,Manuel Lazzari\Manuel-Lazzari,it ITA,DF,Lazio,26,1993,29,28,15,13,10,5,15,43,34.9,28,269,70,26,93,108,68,40,4,0,36,24,52,32,0
+297,Rafael Leão\Rafael-Leao,pt POR,FW,Milan,21,1999,21.4,13,9,4,7,2,4,16,25,12,231,54,23.4,23,90,118,26,0,0,26,5,18,15,0
+298,Lucas Leiva\Lucas-Leiva,br BRA,MF,Lazio,33,1987,23.7,70,45,37,31,2,29,92,31.5,63,503,169,33.6,203,261,39,28,1,0,27,45,115,46,0
+299,Lukas Lerager\Lukas-Lerager,dk DEN,MF,Genoa,27,1993,12.9,27,20,15,10,2,4,28,14.3,24,220,60,27.3,72,104,44,20,3,0,17,13,40,24,2
+300,Mehdi Léris\Mehdi-Leris,fr FRA,DFMF,Sampdoria,22,1998,4.3,14,9,6,5,3,6,15,40,9,130,29,22.3,47,52,31,19,4,0,15,12,26,10,0
+301,Karlo Letica\Karlo-Letica,hr CRO,GK,Sampdoria,23,1997,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+302,Gaetano Letizia\Gaetano-Letizia,it ITA,DF,Benevento,30,1990,17.4,40,27,25,12,3,14,39,35.9,25,198,58,29.3,111,68,19,38,5,0,33,22,62,34,2
+303,Matthijs de Ligt\Matthijs-de-Ligt,nl NED,DF,Juventus,20,1999,24.7,33,19,20,12,1,13,20,65,7,229,77,33.6,114,103,12,38,15,0,23,28,61,100,0
+304,Karol Linetty\Karol-Linetty,pl POL,MF,Torino,25,1995,20.4,50,30,18,22,10,12,39,30.8,27,324,91,28.1,113,157,54,22,6,0,16,16,66,10,0
+305,Pol Lirola\Pol-Lirola,es ESP,DFFW,Fiorentina,22,1997,5.5,9,5,5,3,1,2,5,40,3,44,19,43.2,17,18,9,14,3,0,11,5,14,12,0
+306,Fernando Llorente\Fernando-Llorente,es ESP,FWMF,Napoli,35,1985,0.6,0,0,0,0,0,0,0,,0,6,2,33.3,0,3,3,0,0,0,0,0,0,0,0
+307,Fernando Llorente\Fernando-Llorente,es ESP,FW,Udinese,35,1985,7.9,4,2,1,3,0,3,6,50,3,117,23,19.7,17,63,37,2,0,0,2,4,8,16,0
+308,Stanislav Lobotka\Stanislav-Lobotka,sk SVK,MF,Napoli,25,1994,1.7,1,1,0,1,0,0,1,0,1,21,5,23.8,4,10,7,1,1,0,0,1,2,1,0
+309,Manuel Locatelli\Manuel-Locatelli,it ITA,MF,Sassuolo,22,1998,32,87,52,35,37,15,25,56,44.6,31,461,141,30.6,168,213,80,57,17,0,40,43,130,70,1
+310,Maxime Lopez\Maxime-Lopez,fr FRA,MF,Sassuolo,22,1997,20.7,28,19,18,7,3,12,38,31.6,26,362,102,28.2,121,168,73,15,2,0,13,23,51,6,0
+311,Pau López\Pau-Lopez,es ESP,GK,Roma,25,1994,20.2,0,0,0,0,0,0,0,,0,4,0,0,4,0,0,1,0,0,1,0,0,0,1
+312,Matteo Lovato\Matteo-Lovato,it ITA,DF,Hellas Verona,20,2000,15.4,27,18,15,10,2,10,20,50,10,199,72,36.2,100,90,9,27,10,0,17,19,46,86,2
+313,Hirving Lozano\Hirving-Lozano,mx MEX,FW,Napoli,25,1995,21.8,34,20,14,14,6,9,32,28.1,23,397,107,27,75,174,148,55,3,0,52,18,52,7,0
+314,José Luis Palomino\Jose-Luis-Palomino,ar ARG,DF,Atalanta,30,1990,27,70,43,39,26,5,23,45,51.1,22,413,147,35.6,195,201,17,49,15,1,34,73,143,128,1
+315,Romelu Lukaku\Romelu-Lukaku,be BEL,FW,Inter,27,1993,32,11,5,1,7,3,3,10,30,7,291,80,27.5,10,98,183,19,5,0,14,3,14,34,0
+316,Saša Lukić\Sasa-Lukic,rs SRB,MF,Torino,23,1996,23.4,39,28,13,20,6,11,49,22.4,38,494,134,27.1,124,270,100,40,5,0,35,15,54,15,0
+317,Senad Lulić\Senad-Lulic,ba BIH,DFMF,Lazio,34,1986,8,19,10,9,6,4,6,12,50,6,112,31,27.7,36,47,29,13,3,0,10,8,27,14,0
+318,Sebastiano Luperto\Sebastiano-Luperto,it ITA,DF,Crotone,23,1996,20.9,33,19,25,7,1,9,21,42.9,12,227,57,25.1,120,86,21,31,8,0,23,18,51,91,1
+319,Lyanco\Lyanco,br BRA,DF,Torino,23,1997,21.8,22,11,11,9,2,9,20,45,11,159,48,30.2,89,62,8,48,26,2,22,50,72,102,1
+320,Charalambos Lykogiannis\Charalambos-Lykogiannis,gr GRE,DF,Cagliari,26,1993,26.9,34,15,21,9,4,15,32,46.9,17,276,67,24.3,126,97,53,68,14,0,54,29,63,100,0
+321,Lisandro Magallán\Lisandro-Magallan,ar ARG,DF,Crotone,26,1993,24.2,67,41,36,28,3,24,44,54.5,20,355,121,34.1,188,150,17,40,16,0,24,36,103,108,4
+322,Christian Maggio\Christian-Maggio,it ITA,DF,Benevento,38,1982,3.3,9,5,5,3,1,2,6,33.3,4,50,14,28,21,20,9,8,2,0,6,2,11,2,0
+323,Giulio Maggiore\Giulio-Maggiore,it ITA,MF,Spezia,22,1998,24.6,72,48,27,36,9,22,52,42.3,30,495,138,27.9,118,265,112,37,6,0,31,27,99,27,0
+324,Francesco Magnanelli\Francesco-Magnanelli,it ITA,MF,Sassuolo,35,1984,4.9,10,8,5,4,1,5,15,33.3,10,73,25,34.2,31,34,8,10,2,0,8,5,15,19,0
+325,Giangiacomo Magnani\Giangiacomo-Magnani,it ITA,DF,Hellas Verona,24,1995,16.8,26,12,17,8,1,6,13,46.2,7,222,86,38.7,104,110,8,35,18,0,17,48,74,131,3
+326,Jean-Victor Makengo\Jean-Victor-Makengo,fr FRA,MF,Udinese,22,1998,5.8,9,7,5,2,2,2,14,14.3,12,105,29,27.6,44,44,17,5,1,0,4,3,12,5,0
+327,Nikola Maksimović\Nikola-Maksimovic,rs SRB,DF,Napoli,28,1991,13.4,21,6,12,8,1,6,15,40,9,115,39,33.9,67,44,4,18,7,0,11,16,37,65,1
+328,Kévin Malcuit\Kevin-Malcuit,ma MAR,MFFW,Napoli,29,1991,0.4,1,0,1,0,0,0,0,,0,11,2,18.2,5,4,2,1,0,0,1,2,3,1,0
+329,Kévin Malcuit\Kevin-Malcuit,ma MAR,DF,Fiorentina,29,1991,2.3,4,2,2,2,0,0,3,0,3,28,8,28.6,10,10,8,7,0,0,7,2,6,5,0
+330,Daniel Maldini\Daniel-Maldini,it ITA,FWMF,Milan,18,2001,0.3,1,0,0,1,0,0,2,0,2,16,7,43.8,5,5,6,0,0,0,0,0,1,0,0
+331,Ruslan Malinovskyi\Ruslan-Malinovskyi,ua UKR,FWMF,Atalanta,27,1993,20.8,23,17,1,16,6,5,20,25,15,411,111,27,46,184,181,19,1,0,18,3,26,6,1
+332,Dennis Man\Dennis-Man,ro ROU,FWMF,Parma,21,1998,7.8,11,4,6,4,1,6,24,25,18,114,23,20.2,27,55,32,7,0,0,7,6,17,5,0
+333,Gianluca Mancini\Gianluca-Mancini,it ITA,DF,Roma,24,1996,31.7,66,40,36,25,5,16,35,45.7,19,440,153,34.8,218,193,29,53,21,0,32,71,137,107,0
+334,Rolando Mandragora\Rolando-Mandragora,it ITA,MF,Udinese,23,1997,4.4,8,5,3,4,1,3,12,25,9,71,16,22.5,32,28,11,14,3,0,11,3,11,5,0
+335,Rolando Mandragora\Rolando-Mandragora,it ITA,MF,Torino,23,1997,16.9,26,17,10,10,6,8,33,24.2,25,354,91,25.7,119,170,65,18,6,0,12,19,45,27,0
+336,Mario Mandžukić\Mario-Mandzukic,hr CRO,FW,Milan,34,1986,2.4,8,5,3,4,1,0,1,0,1,62,20,32.3,11,24,27,0,0,0,0,1,9,3,0
+337,Niccolò Manfredini\Niccolo-Manfredini,it ITA,GK,Benevento,32,1988,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+338,Kostas Manolas\Kostas-Manolas,gr GRE,DF,Napoli,29,1991,25.5,34,21,26,8,0,13,24,54.2,11,173,62,35.8,116,50,7,35,16,0,19,26,60,97,2
+339,Juan Manuel Ramos\Juan-Manuel-Ramos,uy URU,DF,Spezia,23,1996,3.3,4,1,2,1,1,2,4,50,2,27,10,37,14,7,6,6,0,0,6,2,6,8,0
+340,Federico Marchetti\Federico-Marchetti,it ITA,GK,Genoa,37,1983,3.7,0,0,0,0,0,0,1,0,1,3,0,0,3,0,0,0,0,0,0,0,0,0,0
+341,Riccardo Marchizza\Riccardo-Marchizza,it ITA,DF,Spezia,22,1998,17.3,23,12,16,4,3,10,18,55.6,8,173,50,28.9,74,63,36,22,6,0,16,19,42,37,0
+342,Gian Marco Ferrari\Gian-Marco-Ferrari,it ITA,DF,Sassuolo,28,1992,33.5,41,26,20,18,3,8,23,34.8,15,222,79,35.6,106,95,21,70,42,0,28,37,78,135,1
+343,Răzvan Marin\Razvan-Marin,ro ROU,MF,Cagliari,24,1996,32.9,66,49,32,25,9,25,52,48.1,27,572,156,27.3,186,312,74,32,9,0,23,26,92,23,0
+344,Marlon\Marlon,br BRA,DF,Sassuolo,24,1995,19.4,23,19,16,5,2,12,17,70.6,5,146,42,28.8,67,68,11,34,16,0,18,28,51,80,1
+345,Luca Marrone\Luca-Marrone,it ITA,DF,Crotone,30,1990,17.6,28,19,18,10,0,12,22,54.5,10,192,63,32.8,117,69,6,30,9,0,21,14,42,72,1
+346,Lucas Martínez Quarta\Lucas-Martinez-Quarta,ar ARG,DF,Fiorentina,24,1996,16.5,44,31,28,13,3,20,48,41.7,28,260,85,32.7,139,96,25,24,9,0,15,36,80,63,1
+347,Lautaro Martínez\Lautaro-Martinez,ar ARG,FW,Inter,22,1997,28.5,24,18,5,9,10,6,20,30,14,507,133,26.2,61,206,240,42,7,0,35,28,52,15,0
+348,Adam Marušić\Adam-Marusic,me MNE,DF,Lazio,27,1992,33,50,28,29,18,3,19,41,46.3,22,305,91,29.8,137,115,53,56,6,0,50,48,98,66,1
+349,Andrea Masiello\Andrea-Masiello,it ITA,DF,Genoa,34,1986,28.5,43,22,29,9,5,23,48,47.9,25,305,84,27.5,189,98,18,42,16,0,26,41,84,158,0
+350,Giuseppe Mastinu\Giuseppe-Mastinu,it ITA,FW,Spezia,28,1991,0.4,1,1,0,1,0,0,0,,0,8,4,50,0,6,2,1,0,0,1,1,2,0,0
+351,Ryder Matos\Ryder-Matos,br BRA,MF,Udinese,27,1993,0.1,0,0,0,0,0,0,0,,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0
+352,Federico Mattiello\Federico-Mattiello,it ITA,DF,Spezia,25,1995,0.4,0,0,0,0,0,0,0,,0,2,1,50,1,0,1,1,0,0,1,1,1,0,0
+353,Borja Mayoral\Borja-Mayoral,es ESP,FW,Roma,23,1997,17.2,6,5,0,2,4,1,12,8.3,11,272,74,27.2,7,124,141,6,0,0,6,3,9,3,1
+354,Antonio Mazzotta\Antonio-Mazzotta,it ITA,DF,Crotone,30,1989,0.6,1,0,0,1,0,0,0,,0,8,1,12.5,2,5,1,0,0,0,0,0,1,1,0
+355,Ibrahima Mbaye\Ibrahima-Mbaye,sn SEN,DF,Bologna,25,1994,4.8,6,3,5,1,0,0,2,0,2,37,12,32.4,16,14,7,6,3,0,3,2,8,11,0
+356,Weston McKennie\Weston-McKennie,us USA,MF,Juventus,21,1998,18.9,45,28,14,25,6,14,37,37.8,23,413,105,25.4,100,209,104,26,6,0,20,23,68,25,0
+357,Gary Medel\Gary-Medel,cl CHI,DFMF,Bologna,32,1987,5.7,13,7,10,2,1,4,13,30.8,9,70,21,30,35,30,5,12,6,0,6,9,22,12,0
+358,Soualiho Meïté\Soualiho-Meite,fr FRA,MF,Milan,26,1994,6.5,16,12,9,5,2,8,17,47.1,9,133,48,36.1,43,71,19,15,2,0,13,8,24,18,0
+359,Soualiho Meïté\Soualiho-Meite,fr FRA,MF,Torino,26,1994,10.2,10,6,6,3,1,3,21,14.3,18,150,38,25.3,60,60,30,24,0,0,24,10,20,10,1
+360,Filippo Melegoni\Filippo-Melegoni,it ITA,MFDF,Genoa,21,1999,4.3,7,3,2,5,0,3,5,60,2,102,21,20.6,35,48,19,5,0,0,5,9,16,6,0
+361,Arthur Melo\Arthur-Melo,br BRA,MF,Juventus,23,1996,12.9,22,15,10,12,0,5,25,20,20,208,62,29.8,77,105,26,12,2,1,10,16,38,9,2
+362,Alex Meret\Alex-Meret,it ITA,GK,Napoli,23,1997,22,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+363,Yıldırım Mert Çetin\Yildirim-Mert-Cetin,tr TUR,DF,Hellas Verona,23,1997,4.6,7,4,3,3,1,1,4,25,3,50,14,28,37,12,1,12,8,0,4,13,20,13,2
+364,Dries Mertens\Dries-Mertens,be BEL,FWMF,Napoli,33,1987,16.2,18,15,5,8,5,5,23,21.7,18,342,87,25.4,24,128,190,9,2,0,7,9,27,5,0
+365,Junior Messias\Junior-Messias,br BRA,MFFW,Crotone,29,1991,35.7,63,42,28,23,12,16,54,29.6,38,602,162,26.9,161,264,177,44,11,0,33,38,101,41,0
+366,Petar Mićin\Petar-Micin,rs SRB,MF,Udinese,21,1998,0.2,0,0,0,0,0,0,0,,0,9,1,11.1,1,3,5,0,0,0,0,0,0,0,0
+367,Valentin Mihaila\Valentin-Mihaila,ro ROU,FWMF,Parma,20,2000,7.8,5,3,1,3,1,1,15,6.7,14,110,23,20.9,26,37,47,11,2,0,9,4,9,6,0
+368,Nikola Milenković\Nikola-Milenkovic,rs SRB,DF,Fiorentina,22,1997,33.7,64,40,47,15,2,27,38,71.1,11,349,106,30.4,184,139,26,57,37,0,20,30,94,153,0
+369,Sergej Milinković-Savić\Sergej-Milinkovic-Savic,rs SRB,MF,Lazio,25,1995,30.5,74,46,25,33,16,30,91,33,61,527,149,28.3,157,247,123,57,13,1,44,37,111,52,0
+370,Vanja Milinković-Savić\Vanja-Milinkovic-Savic,rs SRB,GK,Torino,23,1997,5,1,1,1,0,0,1,1,100,0,2,1,50,2,0,0,0,0,0,0,0,1,1,1
+371,Vincenzo Millico\Vincenzo-Millico,it ITA,FWMF,Torino,19,2000,0.2,0,0,0,0,0,0,0,,0,7,1,14.3,3,4,0,0,0,0,0,0,0,0,0
+372,Aleksei Miranchuk\Aleksei-Miranchuk,ru RUS,FWMF,Atalanta,24,1995,7.5,21,10,7,8,6,5,8,62.5,3,118,45,38.1,18,50,50,1,0,0,1,6,27,2,0
+373,Antonio Mirante\Antonio-Mirante,it ITA,GK,Roma,37,1983,12.8,0,0,0,0,0,0,2,0,2,1,1,100,1,0,0,1,0,0,1,0,0,1,0
+374,Henrikh Mkhitaryan\Henrikh-Mkhitaryan,am ARM,FWMF,Roma,31,1989,30.5,56,38,9,31,16,15,66,22.7,51,606,168,27.7,89,295,222,41,1,0,40,36,92,8,0
+375,Johan Mojica\Johan-Mojica,co COL,DFFW,Atalanta,27,1992,3.3,9,5,7,1,1,3,5,60,2,41,19,46.3,19,12,10,6,1,0,5,2,11,3,0
+376,Nahuel Molina\Nahuel-Molina,ar ARG,DF,Udinese,22,1997,20.3,30,20,20,5,5,12,36,33.3,24,288,73,25.3,123,81,84,49,6,0,43,32,62,45,3
+377,Salvatore Molina\Salvatore-Molina,it ITA,MFDF,Crotone,28,1992,25.7,46,27,27,10,9,22,46,47.8,24,358,113,31.6,150,131,77,50,7,0,43,20,66,35,0
+378,Gabriele Moncini\Gabriele-Moncini,it ITA,FW,Benevento,24,1996,4,2,1,1,0,1,1,2,50,1,39,16,41,4,16,19,3,0,0,3,2,4,4,0
+379,Cristóbal Montiel Rodríguez\Cristobal-Montiel-Rodriguez,es ESP,DFFW,Fiorentina,20,2000,0,0,0,0,0,0,0,1,0,1,5,1,20,2,1,2,0,0,0,0,0,0,0,0
+380,Lorenzo Montipò\Lorenzo-Montipo,it ITA,GK,Benevento,24,1996,37,0,0,0,0,0,0,0,,0,5,1,20,5,0,0,1,0,0,1,0,0,1,3
+381,Luca Mora\Luca-Mora,it ITA,MF,Spezia,32,1988,1.3,3,3,1,2,0,1,2,50,1,25,10,40,7,13,5,2,1,0,1,1,4,2,0
+382,Álvaro Morata\Alvaro-Morata,es ESP,FW,Juventus,27,1992,22.4,19,12,2,10,7,2,16,12.5,14,332,88,26.5,30,142,160,23,3,0,20,9,28,18,0
+383,Raúl Moro\Raul-Moro,es ESP,MF,Lazio,17,2002,0.1,0,0,0,0,0,0,0,,0,9,2,22.2,1,3,5,0,0,0,0,0,0,0,0
+384,Mert Müldür\Mert-Muldur,tr TUR,DF,Sassuolo,21,1999,18.6,34,18,22,7,5,11,41,26.8,30,198,51,25.8,103,56,39,31,4,0,27,23,57,50,0
+385,Luis Muriel\Luis-Muriel,co COL,FW,Atalanta,29,1991,16,20,12,6,5,9,6,24,25,18,279,73,26.2,29,111,139,16,0,0,16,7,27,7,0
+386,Vedat Muriqi\Vedat-Muriqi,xk KVX,FW,Lazio,26,1994,9.2,4,3,1,2,1,0,7,0,7,143,37,25.9,11,64,68,10,1,0,9,2,6,20,0
+387,Nicola Murru\Nicola-Murru,it ITA,DF,Torino,25,1994,6.3,13,11,5,4,4,2,6,33.3,4,88,30,34.1,33,28,27,21,1,1,20,6,19,20,0
+388,Mateo Musacchio\Mateo-Musacchio,ar ARG,DF,Lazio,29,1990,2.5,1,0,1,0,0,0,0,,0,27,11,40.7,20,7,0,6,1,0,5,4,5,8,0
+389,Mateo Musacchio\Mateo-Musacchio,ar ARG,DF,Milan,29,1990,0.4,2,0,2,0,0,1,2,50,1,11,3,27.3,7,4,0,2,0,0,2,1,3,0,0
+390,Juan Musso\Juan-Musso,ar ARG,GK,Udinese,26,1994,35,0,0,0,0,0,0,1,0,1,7,0,0,7,0,0,0,0,0,0,0,0,2,1
+391,Joakim Mæhle\Joakim-Maehle,dk DEN,DF,Atalanta,23,1997,13.5,18,11,7,5,6,6,14,42.9,8,179,52,29.1,59,58,62,28,2,0,26,13,31,18,0
+392,Radja Nainggolan\Radja-Nainggolan,be BEL,MF,Inter,32,1988,0.5,2,2,0,2,0,0,0,,0,10,5,50,2,5,3,1,0,0,1,0,2,0,0
+393,Radja Nainggolan\Radja-Nainggolan,be BEL,MF,Cagliari,32,1988,20.5,42,34,22,14,6,7,28,25,21,270,93,34.4,108,124,38,20,1,0,19,29,71,16,1
+394,Nahitan Nández\Nahitan-Nandez,uy URU,MFDF,Cagliari,24,1995,30.4,59,39,28,21,10,15,59,25.4,44,625,161,25.8,229,278,118,35,4,0,31,29,88,49,0
+395,Ilija Nestorovski\Ilija-Nestorovski,mk MKD,FW,Udinese,30,1990,7.8,5,3,3,1,1,1,14,7.1,13,126,23,18.3,27,65,34,5,0,0,5,4,9,11,0
+396,Nicolas Nkoulou\Nicolas-Nkoulou,cm CMR,DF,Torino,30,1990,15.1,15,8,10,5,0,6,13,46.2,7,103,40,38.8,62,41,0,34,15,0,19,36,51,94,1
+397,Bram Nuytinck\Bram-Nuytinck,nl NED,DF,Udinese,30,1990,18.2,30,14,17,10,3,16,28,57.1,12,168,64,38.1,105,54,9,36,17,0,19,22,52,113,0
+398,Simeon Nwankwo\Simeon-Nwankwo,ng NGA,FW,Crotone,28,1992,32.7,10,8,2,7,1,3,15,20,12,401,79,19.7,28,200,173,25,5,0,20,7,17,52,1
+399,M'Bala Nzola\MBala-Nzola,ao ANG,FW,Spezia,23,1996,21.1,12,8,2,6,4,1,4,25,3,340,98,28.8,10,140,190,26,3,0,23,6,18,19,0
+400,Pedro Obiang\Pedro-Obiang,gq EQG,MF,Sassuolo,28,1992,16.3,41,27,16,20,5,11,33,33.3,22,321,95,29.6,90,167,64,34,9,0,25,14,55,36,1
+401,Brain Oddei\Brain-Oddei,it ITA,MFFW,Sassuolo,17,2002,0.5,2,2,1,1,0,0,0,,0,22,11,50,4,12,6,1,1,0,0,1,3,1,1
+402,Stefano Okaka\Stefano-Okaka,it ITA,FW,Udinese,30,1989,16.5,11,8,3,5,3,2,10,20,8,227,46,20.3,19,108,100,10,4,0,6,5,16,22,0
+403,Christian Oliva\Christian-Oliva,uy URU,MF,Cagliari,24,1996,4.3,7,4,2,3,2,2,7,28.6,5,77,17,22.1,31,39,7,9,1,0,8,5,12,9,1
+404,Maximiliano Olivera\Maximiliano-Olivera,uy URU,DF,Fiorentina,28,1992,1,2,1,0,2,0,0,0,,0,13,2,15.4,4,7,2,2,1,0,1,1,3,7,0
+405,Jerome Onguene\Jerome-Onguene,cm CMR,DF,Genoa,22,1997,2,3,1,3,0,0,1,5,20,4,47,9,19.1,37,9,1,3,0,0,3,5,8,15,0
+406,Riccardo Orsolini\Riccardo-Orsolini,it ITA,FWMF,Bologna,23,1997,19.5,31,10,16,9,6,16,42,38.1,26,295,73,24.7,96,96,103,24,3,0,21,11,42,20,0
+407,Victor Osimhen\Victor-Osimhen,ng NGA,FW,Napoli,21,1998,17.5,22,12,4,6,12,4,11,36.4,7,315,79,25.1,17,111,187,12,4,0,8,9,31,11,0
+408,Yordan Osorio\Yordan-Osorio,ve VEN,DF,Parma,26,1994,20.1,26,16,21,5,0,11,27,40.7,16,203,76,37.4,127,70,6,44,20,0,24,50,76,101,3
+409,David Ospina\David-Ospina,co COL,GK,Napoli,31,1988,16,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+410,Adam Ounas\Adam-Ounas,dz ALG,MFFW,Cagliari,23,1996,3.4,3,1,3,0,0,1,8,12.5,7,64,15,23.4,22,33,9,6,0,0,6,5,8,2,0
+411,Adam Ounas\Adam-Ounas,dz ALG,FWMF,Crotone,23,1996,13.3,7,4,2,3,2,3,8,37.5,5,167,27,16.2,38,75,54,13,2,0,11,9,16,3,0
+412,Thomas Ouwejan\Thomas-Ouwejan,nl NED,DF,Udinese,23,1996,4.6,5,3,1,2,2,1,7,14.3,6,58,14,24.1,20,23,15,7,0,0,7,2,7,7,0
+413,Daniele Padelli\Daniele-Padelli,it ITA,GK,Inter,34,1985,0.5,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,1
+414,Mattia Pagliuca\Mattia-Pagliuca,it ITA,MF,Bologna,18,2002,0.1,0,0,0,0,0,0,0,,0,3,0,0,0,0,3,0,0,0,0,1,1,0,0
+415,Rodrigo Palacio\Rodrigo-Palacio,ar ARG,FW,Bologna,38,1982,27.8,17,12,3,6,8,1,13,7.7,12,405,119,29.4,29,147,229,17,1,0,16,7,24,23,1
+416,Alberto Paleari\Alberto-Paleari,it ITA,GK,Genoa,27,1992,2.3,0,0,0,0,0,0,0,,0,1,1,100,1,0,0,0,0,0,0,0,0,0,0
+417,Antonio Palumbo\Antonio-Palumbo,it ITA,MF,Sampdoria,23,1996,0.1,0,0,0,0,0,0,0,,0,12,1,8.3,3,6,3,0,0,0,0,0,0,0,0
+418,Martin Palumbo\Martin-Palumbo,no NOR,MF,Udinese,18,2002,0.7,1,0,0,0,1,0,1,0,1,14,0,0,1,9,4,5,0,0,5,1,2,1,0
+419,Goran Pandev\Goran-Pandev,mk MKD,FWMF,Genoa,37,1983,15.6,8,5,3,3,2,2,4,50,2,213,50,23.5,23,101,89,11,0,0,11,5,13,7,1
+420,Ivor Pandur\Ivor-Pandur,hr CRO,GK,Hellas Verona,20,2000,3.7,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+421,Vittorio Parigini\Vittorio-Parigini,it ITA,FWDF,Genoa,24,1996,0.6,4,1,2,0,2,2,2,100,0,15,5,33.3,3,6,6,0,0,0,0,0,4,0,0
+422,Marco Parolo\Marco-Parolo,it ITA,DFMF,Lazio,35,1985,7.3,20,7,5,11,4,8,25,32,17,179,58,32.4,54,86,39,21,5,0,16,12,32,28,0
+423,Mario Pašalić\Mario-Pasalic,hr CRO,MFFW,Atalanta,25,1995,12.5,27,16,5,19,3,7,17,41.2,10,266,74,27.8,46,156,64,13,2,0,11,9,36,10,0
+424,Christian Pastina\Christian-Pastina,it ITA,DF,Benevento,19,2001,1.3,4,2,3,1,0,0,0,,0,15,3,20,10,3,2,1,0,0,1,1,5,6,0
+425,Javier Pastore\Javier-Pastore,ar ARG,FWMF,Roma,31,1989,0.9,2,1,2,0,0,1,2,50,1,17,5,29.4,6,6,5,0,0,0,0,1,3,0,0
+426,Patric\Patric,es ESP,DF,Lazio,27,1993,17.7,28,13,15,9,4,12,27,44.4,15,262,80,30.5,122,110,30,24,4,0,20,13,41,65,1
+427,Leonardo Pavoletti\Leonardo-Pavoletti,it ITA,FW,Cagliari,31,1988,17.6,6,4,2,4,0,0,15,0,15,299,57,19.1,37,128,134,9,4,0,5,4,10,32,0
+428,Nehuén Paz\Nehuen-Paz,ar ARG,DF,Bologna,27,1993,4,10,6,4,5,1,4,4,100,0,33,11,33.3,12,19,2,9,2,0,7,11,21,15,0
+429,Pedro\Pedro,es ESP,FWMF,Roma,33,1987,17.7,28,21,9,12,7,7,31,22.6,24,269,61,22.7,51,125,93,13,2,0,11,11,39,1,0
+430,João Pedro\Joao-Pedro,br BRA,FWMF,Cagliari,28,1992,36.1,18,13,6,6,6,2,23,8.7,21,449,120,26.7,63,208,178,37,11,0,26,10,28,28,0
+431,Gianluca Pegolo\Gianluca-Pegolo,it ITA,GK,Sassuolo,39,1981,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+432,Graziano Pellè\Graziano-Pelle,it ITA,FW,Parma,35,1985,6.8,3,2,0,2,1,2,9,22.2,7,92,14,15.2,5,56,31,4,0,0,4,2,5,8,0
+433,Lorenzo Pellegrini\Lorenzo-Pellegrini,it ITA,MFFW,Roma,24,1996,28.9,47,38,14,25,8,14,64,21.9,50,507,137,27,106,280,121,44,3,0,41,29,76,19,1
+434,Luca Pellegrini\Luca-Pellegrini,it ITA,DFMF,Genoa,21,1999,7.1,15,9,9,3,3,2,12,16.7,10,90,31,34.4,42,27,21,12,1,0,11,5,20,10,0
+435,Federico Peluso\Federico-Peluso,it ITA,DF,Sassuolo,36,1984,2.3,3,1,3,0,0,2,4,50,2,13,4,30.8,8,5,0,2,2,0,0,2,5,9,0
+436,Andreas Pereira\Andreas-Pereira,br BRA,MFFW,Lazio,24,1996,6,3,1,0,3,0,1,9,11.1,8,139,30,21.6,23,77,39,13,0,0,13,4,7,4,0
+437,Pedro Pereira\Pedro-Pereira,pt POR,DF,Crotone,22,1998,28.3,52,37,32,12,8,14,26,53.8,12,370,104,28.1,166,128,76,60,10,0,50,21,73,48,0
+438,Gastón Pereiro\Gaston-Pereiro,uy URU,MFFW,Cagliari,25,1995,3,6,3,2,3,1,2,4,50,2,47,10,21.3,12,18,17,3,0,0,3,3,9,2,0
+439,Bruno Peres\Bruno-Peres,br BRA,DF,Roma,30,1990,15.9,20,14,9,9,2,8,22,36.4,14,153,39,25.5,57,69,27,26,4,1,22,27,47,13,0
+440,Roberto Pereyra\Roberto-Pereyra,ar ARG,MFFW,Udinese,29,1991,32.5,22,16,9,8,5,7,29,24.1,22,364,91,25,93,154,117,47,7,0,40,27,49,22,0
+441,Carles Pérez\Carles-Perez,es ESP,FWMF,Roma,22,1998,8.6,10,5,2,7,1,6,23,26.1,17,195,50,25.6,22,91,82,13,0,0,13,3,13,2,0
+442,Mattia Perin\Mattia-Perin,it ITA,GK,Genoa,27,1992,32,0,0,0,0,0,0,0,,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0
+443,Ivan Perišić\Ivan-Perisic,hr CRO,DFFW,Inter,31,1989,19.9,19,11,10,6,3,13,32,40.6,19,222,68,30.6,68,77,77,46,4,0,42,21,40,37,0
+444,Matteo Pessina\Matteo-Pessina,it ITA,MF,Atalanta,23,1997,18.3,17,12,4,9,4,4,23,17.4,19,275,100,36.4,43,127,105,28,3,0,25,14,31,13,0
+445,Andrea Petagna\Andrea-Petagna,it ITA,FW,Napoli,25,1995,10.7,4,2,0,4,0,2,5,40,3,94,18,19.1,9,39,46,7,1,0,6,1,5,9,0
+446,Jacopo Petriccione\Jacopo-Petriccione,it ITA,MF,Crotone,25,1995,10.6,15,9,6,8,1,9,25,36,16,141,44,31.2,58,67,16,13,4,0,9,8,23,8,0
+447,Jens Petter Hauge\Jens-Petter-Hauge,no NOR,FWMF,Milan,20,1999,5.9,6,4,2,3,1,4,8,50,4,112,30,26.8,29,50,33,10,1,0,9,2,8,3,0
+448,Germán Pezzella\German-Pezzella,ar ARG,DF,Fiorentina,29,1991,30.5,40,26,28,11,1,18,36,50,18,252,91,36.1,157,85,10,40,16,0,24,34,74,163,1
+449,Giuseppe Pezzella\Giuseppe-Pezzella,it ITA,DF,Parma,22,1997,20.3,36,25,24,8,4,15,34,44.1,19,216,72,33.3,109,72,35,46,9,1,37,24,60,52,0
+450,Cristiano Piccini\Cristiano-Piccini,it ITA,DF,Atalanta,27,1992,0.7,0,0,0,0,0,0,1,0,1,13,5,38.5,5,3,5,0,0,0,0,1,1,0,0
+451,Roberto Piccoli\Roberto-Piccoli,it ITA,FW,Spezia,19,2001,7.8,8,6,0,6,2,3,7,42.9,4,153,41,26.8,6,58,89,8,1,0,7,2,10,8,0
+452,Andrea Pinamonti\Andrea-Pinamonti,it ITA,FW,Inter,21,1999,1.9,0,0,0,0,0,0,0,,0,43,10,23.3,2,15,26,1,0,0,1,0,0,2,0
+453,Carlo Pinsoglio\Carlo-Pinsoglio,it ITA,GK,Juventus,30,1990,0.3,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+454,Fabio Pisacane\Fabio-Pisacane,it ITA,DF,Cagliari,34,1986,2.5,3,2,3,0,0,2,5,40,3,15,4,26.7,12,3,0,8,5,0,3,3,6,7,1
+455,Marko Pjaca\Marko-Pjaca,hr CRO,FWMF,Genoa,25,1995,15.8,16,11,6,5,5,7,15,46.7,8,219,56,25.6,43,97,79,13,2,0,11,8,24,10,0
+456,Tommaso Pobega\Tommaso-Pobega,it ITA,MF,Spezia,21,1999,13.7,31,21,9,15,7,5,25,20,20,264,73,27.7,60,150,54,19,2,0,17,14,45,23,1
+457,Andrea Poli\Andrea-Poli,it ITA,MF,Bologna,30,1989,4.3,7,7,1,3,3,3,16,18.8,13,72,24,33.3,25,37,10,17,1,0,16,7,14,6,0
+458,Matteo Politano\Matteo-Politano,it ITA,FW,Napoli,26,1993,21.2,21,14,16,3,2,10,39,25.6,29,279,69,24.7,89,103,87,20,1,0,19,21,42,20,0
+459,Manolo Portanova\Manolo-Portanova,it ITA,DFMF,Genoa,20,2000,0.7,3,1,1,1,1,0,2,0,2,32,11,34.4,12,11,9,2,1,0,1,2,5,2,1
+460,Manolo Portanova\Manolo-Portanova,it ITA,FWMF,Juventus,20,2000,0.8,3,2,2,0,1,0,1,0,1,14,9,64.3,1,8,5,3,1,0,2,0,3,0,0
+461,Ivan Provedel\Ivan-Provedel,it ITA,GK,Spezia,26,1994,29,0,0,0,0,0,0,5,0,5,11,1,9.1,11,0,0,0,0,0,0,0,0,1,3
+462,Erick Pulgar\Erick-Pulgar,cl CHI,MF,Fiorentina,26,1994,22.2,46,32,24,21,1,19,50,38,31,325,106,32.6,127,157,41,45,12,0,33,35,81,49,0
+463,Ignacio Pussetto\Ignacio-Pussetto,ar ARG,FW,Udinese,24,1995,8.4,22,15,8,10,4,4,17,23.5,13,178,46,25.8,23,83,72,13,0,0,13,10,32,11,0
+464,Fabio Quagliarella\Fabio-Quagliarella,it ITA,FW,Sampdoria,37,1983,24.5,12,8,3,5,4,0,16,0,16,368,79,21.5,41,162,165,16,4,0,12,6,18,11,0
+465,Simone Rabbi\Simone-Rabbi,it ITA,FW,Bologna,18,2001,0.4,1,1,0,1,0,0,1,0,1,8,2,25,2,2,4,0,0,0,0,0,1,0,0
+466,Adrien Rabiot\Adrien-Rabiot,fr FRA,MF,Juventus,25,1995,25.7,72,45,28,33,11,25,57,43.9,32,485,144,29.7,160,240,85,46,11,0,35,31,103,37,1
+467,Ivan Radovanović\Ivan-Radovanovic,rs SRB,DFMF,Genoa,31,1988,24.8,32,22,19,12,1,9,26,34.6,17,215,65,30.2,128,82,5,49,23,0,26,33,65,144,2
+468,Ionuț Radu\Ionut-Radu,ro ROU,GK,Inter,23,1997,1.5,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+469,Ștefan Radu\Stefan-Radu,ro ROU,DF,Lazio,33,1986,27.3,44,23,24,17,3,18,39,46.2,21,244,107,43.9,129,88,27,40,15,0,25,45,89,81,2
+470,Rafael\Rafael,br BRA,GK,Spezia,38,1982,2.3,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,1
+471,Antonio Raimondo\Antonio-Raimondo,it ITA,FW,Bologna,16,2004,0,0,0,0,0,0,0,0,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+472,Gastón Ramírez\Gaston-Ramirez,uy URU,MFFW,Sampdoria,29,1990,10.8,28,15,8,13,7,4,26,15.4,22,295,68,23.1,54,136,105,22,3,0,19,7,35,14,0
+473,Aaron Ramsey\Aaron-Ramsey,wls WAL,MF,Juventus,29,1990,12.1,24,16,8,14,2,5,24,20.8,19,225,73,32.4,54,108,63,14,2,0,12,6,30,9,1
+474,Andrea Ranocchia\Andrea-Ranocchia,it ITA,DF,Inter,32,1988,7.8,13,7,8,4,1,5,7,71.4,2,67,19,28.4,35,31,1,8,3,0,5,12,25,22,0
+475,Giacomo Raspadori\Giacomo-Raspadori,it ITA,FWMF,Sassuolo,20,2000,13.7,7,2,1,2,4,0,7,0,7,228,72,31.6,14,62,152,10,5,1,5,3,10,9,0
+476,Federico Ravaglia\Federico-Ravaglia,it ITA,GK,Bologna,20,1999,4,0,0,0,0,0,0,1,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0
+477,Ante Rebić\Ante-Rebic,hr CRO,FW,Milan,26,1993,19.7,27,18,4,8,15,8,35,22.9,27,327,86,26.3,34,135,158,24,2,0,22,11,38,15,0
+478,Arkadiusz Reca\Arkadiusz-Reca,pl POL,DF,Crotone,25,1995,25.7,34,21,17,10,7,9,40,22.5,31,357,104,29.1,157,131,69,44,2,0,42,51,85,73,1
+479,Vasco Regini\Vasco-Regini,it ITA,DF,Sampdoria,29,1990,1,2,0,2,0,0,1,2,50,1,15,6,40,8,6,1,3,1,0,2,0,2,6,0
+480,Pepe Reina\Pepe-Reina,es ESP,GK,Lazio,37,1982,29,0,0,0,0,0,0,1,0,1,1,1,100,1,0,0,1,0,0,1,0,0,2,0
+481,Bryan Reynolds\Bryan-Reynolds,us USA,DF,Roma,19,2001,3.1,4,3,1,1,2,1,8,12.5,7,76,20,26.3,28,34,14,3,0,0,3,5,9,3,0
+482,Franck Ribéry\Franck-Ribery,fr FRA,FW,Fiorentina,37,1983,23.9,25,20,4,9,12,9,34,26.5,25,475,116,24.4,100,209,166,13,2,0,11,8,33,0,0
+483,Federico Ricci\Federico-Ricci,it ITA,FW,Sassuolo,26,1994,0,0,0,0,0,0,0,0,,0,2,1,50,0,2,0,0,0,0,0,0,0,0,0
+484,Giacomo Ricci\Giacomo-Ricci,it ITA,DF,Parma,23,1996,0.7,2,1,0,2,0,0,0,,0,6,2,33.3,3,2,1,3,2,0,1,1,3,3,0
+485,Matteo Ricci\Matteo-Ricci,it ITA,MF,Spezia,26,1994,24.8,44,32,14,27,3,14,51,27.5,37,325,102,31.4,103,177,45,38,4,0,34,30,74,19,0
+486,Tomás Rincón\Tomas-Rincon,ve VEN,MF,Torino,32,1988,31.6,78,47,33,34,11,27,70,38.6,43,508,173,34.1,170,255,83,37,7,0,30,30,108,54,0
+487,Andrea Rispoli\Andrea-Rispoli,it ITA,DF,Crotone,31,1988,7.2,6,5,3,1,2,1,5,20,4,71,23,32.4,29,21,21,20,4,0,16,4,10,16,2
+488,Emmanuel Rivière\Emmanuel-Riviere,fr FRA,FWMF,Crotone,30,1990,7.1,4,3,2,2,0,0,5,0,5,100,21,21,15,50,35,6,2,0,4,4,8,0,0
+489,Ricardo Rodríguez\Ricardo-Rodriguez,ch SUI,DF,Torino,27,1992,13.8,29,15,14,12,3,16,25,64,9,140,44,31.4,70,60,10,29,5,0,24,24,53,36,1
+490,Marko Rog\Marko-Rog,hr CRO,MF,Cagliari,25,1995,12.9,39,25,16,20,3,6,25,24,19,318,90,28.3,103,158,57,22,7,0,15,12,51,11,0
+491,Rogério\Rogerio,br BRA,DF,Sassuolo,22,1998,20.9,28,16,17,8,3,15,23,65.2,8,219,74,33.8,81,83,55,46,5,0,41,25,53,50,0
+492,Luis Rojas\Luis-Rojas,cl CHI,MFFW,Crotone,18,2002,1.2,0,0,0,0,0,0,2,0,2,26,6,23.1,5,15,6,0,0,0,0,4,4,1,0
+493,Alessio Romagnoli\Alessio-Romagnoli,it ITA,DF,Milan,25,1995,21.2,18,9,9,7,2,7,17,41.2,10,170,52,30.6,77,85,8,41,27,1,14,14,32,102,1
+494,Cristian Romero\Cristian-Romero,ar ARG,DF,Atalanta,22,1998,28.3,75,46,50,22,3,11,40,27.5,29,486,173,35.6,226,236,24,52,14,0,38,81,156,148,2
+495,Cristiano Ronaldo\Cristiano-Ronaldo,pt POR,FW,Juventus,35,1985,31.1,9,3,3,5,1,4,21,19,17,225,61,27.1,24,89,112,15,5,0,10,8,17,16,0
+496,Marten de Roon\Marten-de-Roon,nl NED,MF,Atalanta,29,1991,33.6,95,67,33,47,15,26,87,29.9,61,673,231,34.3,172,376,125,45,7,0,38,69,164,78,0
+497,Nicolò Rovella\Nicolo-Rovella,it ITA,MF,Genoa,18,2001,13.2,28,16,15,10,3,6,22,27.3,16,306,68,22.2,130,141,35,26,1,0,25,18,46,26,0
+498,Amir Rrahmani\Amir-Rrahmani,xk KVX,DF,Napoli,26,1994,12.2,16,10,8,8,0,6,9,66.7,3,141,44,31.2,75,60,6,19,13,0,6,8,24,54,1
+499,Kevin Rüegg\Kevin-Ruegg,ch SUI,DFMF,Hellas Verona,21,1998,2.3,4,3,2,1,1,0,1,0,1,30,12,40,14,11,5,7,1,0,6,1,5,4,0
+500,Daniele Rugani\Daniele-Rugani,it ITA,DF,Cagliari,26,1994,11.1,27,13,11,13,3,8,18,44.4,10,171,54,31.6,75,88,8,22,11,0,11,15,42,56,0
+501,Matteo Ruggeri\Matteo-Ruggeri,it ITA,DF,Atalanta,18,2002,2.3,4,2,3,1,0,2,2,100,0,18,6,33.3,8,8,2,5,0,0,5,4,8,4,0
+502,Mário Rui\Mario-Rui,pt POR,DF,Napoli,29,1991,18.5,29,19,18,11,0,17,34,50,17,170,60,35.3,72,64,34,35,5,0,30,29,58,32,0
+503,Fabián Ruiz Peña\Fabian-Ruiz-Pena,es ESP,MF,Napoli,24,1996,28.5,49,40,20,20,9,20,69,29,49,467,140,30,132,213,122,44,3,0,41,40,89,41,0
+504,Alexis Saelemaekers\Alexis-Saelemaekers,be BEL,FW,Milan,21,1999,22.4,47,31,20,21,6,16,57,28.1,41,522,158,30.3,159,216,147,40,1,0,39,28,75,6,0
+505,Jacopo Sala\Jacopo-Sala,it ITA,DF,Spezia,28,1991,4.2,16,5,11,4,1,7,15,46.7,8,61,15,24.6,38,19,4,5,2,0,3,3,19,7,0
+506,Eddy Salcedo\Eddy-Salcedo,it ITA,FWMF,Hellas Verona,18,2001,8.4,4,2,2,1,1,2,2,100,0,99,36,36.4,15,44,40,11,1,0,10,3,7,9,0
+507,Antonio Sanabria\Antonio-Sanabria,py PAR,FW,Torino,24,1996,10.9,7,4,2,2,3,3,11,27.3,8,214,36,16.8,17,107,90,7,1,0,6,10,17,7,0
+508,Alexis Sánchez\Alexis-Sanchez,cl CHI,FW,Inter,31,1988,12.7,16,10,4,7,5,2,15,13.3,13,261,63,24.1,37,109,115,9,1,0,8,11,27,2,0
+509,Alex Sandro\Alex-Sandro,br BRA,DF,Juventus,29,1991,20.6,40,27,22,11,7,14,26,53.8,12,188,76,40.4,85,72,31,37,5,0,32,23,63,51,0
+510,Siriki Sanogo\Siriki-Sanogo,ci CIV,MF,Benevento,18,2001,0.1,0,0,0,0,0,0,0,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+511,Nicola Sansone\Nicola-Sansone,it ITA,FWMF,Bologna,28,1991,13,25,14,11,9,5,12,29,41.4,17,253,70,27.7,69,126,58,21,2,0,19,9,34,11,1
+512,Federico Santander\Federico-Santander,py PAR,FW,Bologna,29,1991,0.4,0,0,0,0,0,0,0,,0,8,5,62.5,0,3,5,0,0,0,0,0,0,0,0
+513,Davide Santon\Davide-Santon,it ITA,DF,Roma,29,1991,6.5,8,4,4,3,1,5,10,50,5,81,18,22.2,32,41,8,15,1,0,14,6,14,11,0
+514,Samir Santos\Samir-Santos,br BRA,DF,Udinese,25,1994,24.6,53,34,35,16,2,16,34,47.1,18,235,72,30.6,131,92,12,50,22,0,28,40,93,80,1
+515,Riccardo Saponara\Riccardo-Saponara,it ITA,FWMF,Spezia,28,1991,4.3,4,2,1,2,1,2,4,50,2,28,6,21.4,8,8,12,2,0,0,2,3,7,2,0
+516,Riccardo Saponara\Riccardo-Saponara,it ITA,FW,Fiorentina,28,1991,0.6,1,1,0,1,0,1,3,33.3,2,10,2,20,1,6,3,1,0,0,1,0,1,0,0
+517,Marco Sau\Marco-Sau,it ITA,MFFW,Benevento,32,1987,8.7,6,3,2,2,2,2,15,13.3,13,126,21,16.7,25,61,40,8,0,0,8,8,14,3,0
+518,Gianluca Scamacca\Gianluca-Scamacca,it ITA,FW,Genoa,21,1999,15,20,11,6,7,7,7,20,35,13,230,59,25.7,27,103,100,14,4,0,10,8,28,15,0
+519,Nicolás Schiappacasse\Nicolas-Schiappacasse,uy URU,MF,Sassuolo,21,1999,0.2,0,0,0,0,0,0,0,,0,4,2,50,0,0,4,0,0,0,0,0,0,0,0
+520,Pasquale Schiattarella\Pasquale-Schiattarella,it ITA,MF,Benevento,33,1987,25,46,35,29,16,1,20,46,43.5,26,281,106,37.7,131,132,18,29,6,0,23,23,69,39,1
+521,Jerdy Schouten\Jerdy-Schouten,nl NED,MF,Bologna,23,1997,27.9,50,40,19,30,1,10,31,32.3,21,434,132,30.4,168,207,59,51,14,1,37,79,129,45,2
+522,Matteo Scozzarella\Matteo-Scozzarella,it ITA,MF,Parma,32,1988,1.7,3,1,2,1,0,2,3,66.7,1,18,5,27.8,5,12,1,5,1,0,4,6,9,1,0
+523,Simone Scuffet\Simone-Scuffet,it ITA,GK,Udinese,24,1996,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+524,Jacopo Segre\Jacopo-Segre,it ITA,MF,Torino,23,1997,2.1,6,5,3,2,1,2,5,40,3,27,11,40.7,10,14,3,1,0,0,1,0,6,1,0
+525,Léo Sena\Leo-Sena,br BRA,MF,Spezia,24,1995,9.8,24,15,10,9,5,9,24,37.5,15,159,54,34,50,80,29,24,4,0,20,13,37,8,0
+526,Stefano Sensi\Stefano-Sensi,it ITA,MF,Inter,24,1995,6.7,13,10,6,5,2,3,9,33.3,6,121,30,24.8,42,49,30,5,1,0,4,10,23,2,1
+527,Luigi Sepe\Luigi-Sepe,it ITA,GK,Parma,29,1991,36,0,0,0,0,0,0,2,0,2,3,0,0,3,0,0,0,0,0,0,0,0,0,0
+528,Stephan El Shaarawy\Stephan-El-Shaarawy,it ITA,FWMF,Roma,27,1992,6.4,5,2,2,3,0,2,5,40,3,86,13,15.1,15,39,32,6,1,0,5,5,10,2,0
+529,Eldor Shomurodov\Eldor-Shomurodov,uz UZB,FW,Genoa,25,1995,18.6,29,17,8,13,8,4,19,21.1,15,390,109,27.9,46,191,153,19,2,0,17,7,36,13,0
+530,Luca Siligardi\Luca-Siligardi,it ITA,MF,Crotone,32,1988,0.5,2,2,0,1,1,1,5,20,4,15,5,33.3,3,8,4,1,0,0,1,0,2,0,0
+531,Luca Siligardi\Luca-Siligardi,it ITA,FW,Parma,32,1988,0.4,1,1,1,0,0,0,2,0,2,6,1,16.7,0,4,2,0,0,0,0,0,1,0,0
+532,Adrien Silva\Adrien-Silva,pt POR,MF,Sampdoria,31,1989,17.8,49,26,25,22,2,13,45,28.9,32,498,142,28.5,166,255,77,39,3,0,36,34,83,14,0
+533,Marco Silvestri\Marco-Silvestri,it ITA,GK,Hellas Verona,29,1991,34,0,0,0,0,0,0,1,0,1,3,0,0,3,0,0,0,0,0,0,0,0,1,0
+534,Giovanni Simeone\Giovanni-Simeone,ar ARG,FW,Cagliari,25,1995,19.3,22,15,5,12,5,2,22,9.1,20,373,101,27.1,36,167,170,24,1,0,23,15,37,16,0
+535,Wilfried Singo\Wilfried-Singo,ci CIV,DF,Torino,19,2000,20.6,27,17,17,6,4,13,30,43.3,17,190,62,32.6,79,67,44,21,3,1,18,34,61,44,1
+536,Salvatore Sirigu\Salvatore-Sirigu,it ITA,GK,Torino,33,1987,32,0,0,0,0,0,0,2,0,2,7,0,0,7,0,0,0,0,0,0,0,0,0,1
+537,Łukasz Skorupski\Lukasz-Skorupski,pl POL,GK,Bologna,29,1991,28,0,0,0,0,0,0,3,0,3,3,0,0,3,0,0,0,0,0,0,0,0,1,5
+538,Andreas Skov Olsen\Andreas-Skov-Olsen,dk DEN,FWDF,Bologna,20,1999,13.1,21,10,11,7,3,8,19,42.1,11,206,42,20.4,73,78,55,23,0,0,23,4,25,20,0
+539,Milan Škriniar\Milan-Skriniar,sk SVK,DF,Inter,25,1995,30.9,55,28,36,15,4,20,34,58.8,14,239,84,35.1,149,64,26,48,19,0,29,27,82,95,2
+540,Chris Smalling\Chris-Smalling,eng ENG,DF,Roma,30,1989,12.3,11,7,6,4,1,5,12,41.7,7,110,37,33.6,56,50,4,21,10,0,11,22,33,64,1
+541,Simon Sohm\Simon-Sohm,ch SUI,MF,Parma,19,2001,10,18,11,11,6,1,7,14,50,7,155,31,20,53,78,24,10,1,0,9,3,21,9,0
+542,Roberto Soriano\Roberto-Soriano,it ITA,MF,Bologna,29,1991,36.1,47,32,19,19,9,11,61,18,50,608,157,25.8,148,271,189,36,7,0,29,27,74,47,0
+543,Riccardo Sottil\Riccardo-Sottil,it ITA,MFFW,Cagliari,21,1999,13.2,10,8,3,5,2,3,10,30,7,128,26,20.3,35,58,35,7,1,0,6,4,14,5,0
+544,Adama Soumaoro\Adama-Soumaoro,fr FRA,DF,Bologna,28,1992,19.5,28,16,23,5,0,6,12,50,6,215,78,36.3,130,79,6,46,26,0,20,32,60,102,0
+545,Leonardo Spinazzola\Leonardo-Spinazzola,it ITA,DF,Roma,27,1993,23.6,13,5,3,10,0,5,18,27.8,13,205,55,26.8,72,70,63,27,1,0,26,31,44,32,2
+546,Marco Sportiello\Marco-Sportiello,it ITA,GK,Atalanta,28,1992,14,1,1,1,0,0,0,2,0,2,2,1,50,2,0,0,0,0,0,0,0,1,2,0
+547,Mattia Sprocati\Mattia-Sprocati,it ITA,FW,Parma,27,1993,0.2,0,0,0,0,0,0,1,0,1,2,2,100,0,2,0,0,0,0,0,0,0,0,0
+548,Thomas Strakosha\Thomas-Strakosha,al ALB,GK,Lazio,25,1995,9,1,1,1,0,0,1,1,100,0,1,0,0,1,0,0,0,0,0,0,0,1,2,0
+549,Kevin Strootman\Kevin-Strootman,nl NED,MF,Genoa,30,1990,14.6,43,27,21,21,1,22,38,57.9,16,334,96,28.7,122,158,54,37,4,0,33,28,71,16,0
+550,Jens Stryger Larsen\Jens-Stryger-Larsen,dk DEN,DF,Udinese,29,1991,29.3,21,15,13,6,2,10,29,34.5,19,252,67,26.6,116,84,52,56,11,0,45,29,50,50,2
+551,Stefano Sturaro\Stefano-Sturaro,it ITA,MF,Hellas Verona,27,1993,4.7,9,5,3,5,1,3,9,33.3,6,101,23,22.8,22,58,21,8,0,0,8,2,11,10,0
+552,Stefano Sturaro\Stefano-Sturaro,it ITA,MF,Genoa,27,1993,4.9,12,7,3,7,2,3,11,27.3,8,110,27,24.5,31,58,21,10,0,0,10,2,14,2,0
+553,Bosko Sutalo\Bosko-Sutalo,hr CRO,DF,Atalanta,20,2000,2.6,7,5,1,3,3,2,4,50,2,25,12,48,9,9,7,3,1,0,2,2,9,16,0
+554,Mattias Svanberg\Mattias-Svanberg,se SWE,MF,Bologna,21,1999,20.6,41,18,18,15,8,10,42,23.8,32,308,79,25.6,116,135,57,33,3,0,30,36,77,27,0
+555,Wojciech Szczęsny\Wojciech-Szczesny,pl POL,GK,Juventus,30,1990,29.7,0,0,0,0,0,0,0,,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+556,Adrien Tameze\Adrien-Tameze,cm CMR,MF,Hellas Verona,26,1994,25.6,53,41,26,24,3,12,34,35.3,22,448,142,31.7,132,232,84,50,9,0,41,35,88,55,2
+557,Ciprian Tătărușanu\Ciprian-Tatarusanu,ro ROU,GK,Milan,34,1986,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,1
+558,Andrés Tello\Andres-Tello,co COL,DFMF,Benevento,23,1996,4.6,11,8,8,3,0,4,20,20,16,93,32,34.4,44,32,17,11,1,0,10,7,18,9,0
+559,Hidde ter Avest\Hidde-ter-Avest,nl NED,DF,Udinese,23,1997,3.9,4,3,3,1,0,3,5,60,2,44,18,40.9,18,18,8,7,1,0,6,0,4,5,0
+560,Pietro Terracciano\Pietro-Terracciano,it ITA,GK,Fiorentina,30,1990,3,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+561,Claudio Terzi\Claudio-Terzi,it ITA,DF,Spezia,36,1984,20.8,34,14,21,12,1,17,28,60.7,11,201,74,36.8,99,98,4,34,12,1,22,35,69,80,1
+562,Morten Thorsby\Morten-Thorsby,no NOR,MF,Sampdoria,24,1996,29.4,80,58,35,36,9,16,55,29.1,39,712,215,30.2,269,310,133,65,18,0,47,21,101,43,0
+563,Jeremy Toljan\Jeremy-Toljan,de GER,DF,Sassuolo,25,1994,16.6,28,16,22,4,2,14,34,41.2,20,235,71,30.2,107,81,47,30,7,0,23,17,45,34,0
+564,Rafael Tolói\Rafael-Toloi,it ITA,DF,Atalanta,29,1990,28.2,57,33,23,29,5,17,43,39.5,26,336,131,39,126,163,47,44,6,0,38,38,95,79,1
+565,Takehiro Tomiyasu\Takehiro-Tomiyasu,jp JPN,DF,Bologna,21,1998,30.2,43,29,28,11,4,17,30,56.7,13,346,123,35.5,174,135,37,59,18,0,41,51,94,145,0
+566,Fikayo Tomori\Fikayo-Tomori,eng ENG,DF,Milan,22,1997,16.3,33,15,22,10,1,12,21,57.1,9,216,85,39.4,123,82,11,38,21,1,17,21,54,91,1
+567,Sandro Tonali\Sandro-Tonali,it ITA,MF,Milan,20,2000,14.8,27,14,13,13,1,11,27,40.7,16,303,68,22.4,108,154,41,29,6,0,23,20,47,24,0
+568,Lorenzo Tonelli\Lorenzo-Tonelli,it ITA,DF,Sampdoria,30,1990,19.8,37,22,22,15,0,5,18,27.8,13,234,86,36.8,121,93,20,35,15,1,20,18,55,104,1
+569,Ernesto Torregrossa\Ernesto-Torregrossa,it ITA,FW,Sampdoria,28,1992,1.9,1,1,0,0,1,0,2,0,2,28,5,17.9,2,17,9,5,1,0,4,1,2,1,0
+570,Mattéo Tramoni\Matteo-Tramoni,fr FRA,FWMF,Cagliari,20,2000,0.8,2,2,1,0,1,0,1,0,1,38,12,31.6,16,13,9,9,0,0,9,1,3,0,0
+571,Chaka Traorè\Chaka-Traore,ci CIV,DFFW,Parma,15,2004,0.2,0,0,0,0,0,0,0,,0,7,0,0,2,4,1,1,0,0,1,0,0,1,0
+572,Alessandro Tripaldelli\Alessandro-Tripaldelli,it ITA,DF,Cagliari,21,1999,3.3,11,4,7,3,1,4,6,66.7,2,60,13,21.7,27,25,8,7,0,0,7,4,15,11,0
+573,Alessandro Tuia\Alessandro-Tuia,it ITA,DF,Benevento,30,1990,19.6,53,30,46,5,2,19,30,63.3,11,234,86,36.8,178,50,6,26,8,0,18,30,83,101,1
+574,Ľubomír Tupta\Lubomir-Tupta,sk SVK,MF,Hellas Verona,22,1998,0.6,0,0,0,0,0,0,0,,0,5,2,40,0,3,2,0,0,0,0,0,0,0,0
+575,Iyenoma Udogie\Iyenoma-Udogie,it ITA,DFMF,Hellas Verona,17,2002,1.9,6,4,4,1,1,2,3,66.7,1,37,13,35.1,16,16,5,4,1,0,3,3,9,7,0
+576,Samir Ujkani\Samir-Ujkani,xk KVX,GK,Torino,32,1988,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+577,Kacper Urbanski\Kacper-Urbanski,pl POL,MF,Bologna,15,2004,0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+578,Lautaro Valenti\Lautaro-Valenti,ar ARG,DF,Parma,21,1999,5.5,10,5,7,2,1,4,11,36.4,7,93,32,34.4,57,31,5,8,3,0,5,15,25,31,0
+579,Borja Valero\Borja-Valero,es ESP,MFFW,Fiorentina,35,1985,5.5,12,7,7,5,0,3,12,25,9,121,30,24.8,44,59,18,4,1,0,3,7,19,1,0
+580,Denis Vavro\Denis-Vavro,sk SVK,DF,Lazio,24,1996,0.4,0,0,0,0,0,0,1,0,1,4,2,50,3,1,0,0,0,0,0,0,0,3,0
+581,Matías Vecino\Matias-Vecino,uy URU,MF,Inter,28,1991,3.1,3,1,0,1,2,2,6,33.3,4,51,10,19.6,20,20,11,8,1,0,7,4,7,2,0
+582,Miguel Veloso\Miguel-Veloso,pt POR,MF,Hellas Verona,34,1986,14.6,29,15,10,15,4,15,38,39.5,23,251,68,27.1,75,155,21,25,2,0,23,15,44,40,0
+583,Lorenzo Venuti\Lorenzo-Venuti,it ITA,DF,Fiorentina,25,1995,19.5,30,18,16,9,5,12,30,40,18,209,60,28.7,80,86,43,32,5,1,27,16,46,23,0
+584,Daniele Verde\Daniele-Verde,it ITA,FW,Spezia,24,1996,10.9,4,3,2,1,1,3,11,27.3,8,82,25,30.5,13,28,41,11,0,0,11,8,12,8,0
+585,Simone Verdi\Simone-Verdi,it ITA,MFFW,Torino,28,1992,18,22,15,9,10,3,9,24,37.5,15,267,70,26.2,89,108,70,10,0,0,10,13,35,5,0
+586,Jordan Veretout\Jordan-Veretout,fr FRA,MF,Roma,27,1993,22.8,27,24,10,15,2,6,34,17.6,28,352,92,26.1,86,197,69,23,4,0,19,12,39,21,3
+587,Edoardo Vergani\Edoardo-Vergani,it ITA,FW,Bologna,19,2001,0.1,0,0,0,0,0,0,0,,0,4,3,75,0,1,3,0,0,0,0,0,0,0,0
+588,Valerio Verre\Valerio-Verre,it ITA,MF,Sampdoria,26,1994,11.1,14,9,2,8,4,4,19,21.1,15,240,62,25.8,37,120,83,17,1,0,16,9,23,7,1
+589,Guglielmo Vicario\Guglielmo-Vicario,it ITA,GK,Cagliari,23,1996,4,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+590,Arturo Vidal\Arturo-Vidal,cl CHI,MF,Inter,33,1987,12.6,32,23,14,12,6,12,38,31.6,26,290,80,27.6,112,139,39,29,3,0,26,18,50,11,0
+591,Ronaldo Vieira\Ronaldo-Vieira,gw GNB,MF,Hellas Verona,22,1998,2.5,4,1,1,2,1,0,2,0,2,44,11,25,11,26,7,7,5,0,2,0,4,3,0
+592,Luca Vignali\Luca-Vignali,it ITA,DF,Spezia,24,1996,17.7,18,10,11,6,1,6,29,20.7,23,211,71,33.6,96,84,31,33,5,0,28,44,62,32,1
+593,Emanuel Vignato\Emanuel-Vignato,it ITA,FWMF,Bologna,19,2000,13.4,19,11,10,6,3,4,19,21.1,15,259,59,22.8,59,130,70,8,1,0,7,12,31,11,0
+594,Gonzalo Villar\Gonzalo-Villar,es ESP,MF,Roma,22,1998,20.7,51,32,14,28,9,13,55,23.6,42,396,115,29,106,221,69,25,3,0,22,21,72,21,0
+595,Nicolas Viola\Nicolas-Viola,it ITA,MF,Benevento,30,1989,11.5,16,10,1,11,4,3,22,13.6,19,172,42,24.4,57,90,25,12,3,0,9,16,32,8,0
+596,Dušan Vlahović\Dusan-Vlahovic,rs SRB,FW,Fiorentina,20,2000,32.5,9,5,4,2,3,4,14,28.6,10,421,95,22.6,31,185,205,19,7,0,12,12,21,13,0
+597,Mërgim Vojvoda\Mergim-Vojvoda,xk KVX,DF,Torino,25,1995,15.1,26,13,22,4,0,10,23,43.5,13,198,43,21.7,96,69,33,31,3,1,28,18,44,36,2
+598,Stefan de Vrij\Stefan-de-Vrij,nl NED,DF,Inter,28,1992,30.4,31,16,21,9,1,8,15,53.3,7,223,72,32.3,126,88,9,35,19,0,16,40,71,125,0
+599,Giacomo Vrioni\Giacomo-Vrioni,al ALB,MF,Juventus,21,1998,0,0,0,0,0,0,0,0,,0,1,1,100,0,0,1,0,0,0,0,0,0,0,0
+600,Miloš Vulić\Milos-Vulic,rs SRB,MF,Crotone,23,1996,14.5,23,11,12,3,8,7,16,43.8,9,179,45,25.1,59,76,44,14,1,0,13,9,32,11,1
+601,Walace\Walace,br BRA,MF,Udinese,25,1995,22.8,60,45,36,20,4,23,80,28.8,57,432,140,32.4,222,169,41,45,5,0,40,41,101,27,1
+602,Sebastian Walukiewicz\Sebastian-Walukiewicz,pl POL,DF,Cagliari,20,2000,18,31,14,20,8,3,16,34,47.1,18,205,68,33.2,121,70,14,33,17,0,16,22,53,72,0
+603,Maya Yoshida\Maya-Yoshida,jp JPN,DF,Sampdoria,31,1988,25.3,27,15,15,12,0,5,14,35.7,9,165,58,35.2,85,70,10,55,34,1,21,42,69,138,2
+604,Ashley Young\Ashley-Young,eng ENG,DF,Inter,35,1985,15.8,24,9,10,9,5,5,12,41.7,7,134,32,23.9,51,46,37,24,0,0,24,9,33,27,0
+605,Mattia Zaccagni\Mattia-Zaccagni,it ITA,MFFW,Hellas Verona,25,1995,29,35,24,15,14,6,8,27,29.6,19,354,103,29.1,79,147,128,32,5,0,27,33,68,16,1
+606,Vasilios Zagaritis\Vasilios-Zagaritis,gr GRE,DF,Parma,19,2001,0.7,1,1,1,0,0,1,1,100,0,9,4,44.4,2,4,3,1,0,0,1,1,2,0,0
+607,Miha Zajc\Miha-Zajc,si SVN,MF,Genoa,26,1994,20.7,36,24,14,15,7,11,38,28.9,27,384,83,21.6,107,194,83,34,5,0,29,26,62,29,0
+608,Nicola Zalewski\Nicola-Zalewski,pl POL,MF,Roma,18,2002,0.1,0,0,0,0,0,0,0,,0,3,1,33.3,1,2,0,1,0,0,1,0,0,0,0
+609,Niccolò Zanellato\Niccolo-Zanellato,it ITA,MF,Crotone,22,1998,18.2,29,21,17,11,1,9,31,29,22,257,76,29.6,87,136,34,20,5,0,15,12,41,17,1
+610,Cristián Zapata\Cristian-Zapata,co COL,DF,Genoa,33,1986,10.8,24,16,17,6,1,12,15,80,3,102,34,33.3,58,42,2,21,14,1,7,16,40,66,2
+611,Duván Zapata\Duvan-Zapata,co COL,FW,Atalanta,29,1991,26.4,8,6,3,3,2,2,9,22.2,7,233,65,27.9,17,72,144,23,6,0,17,10,18,18,0
+612,Gabriele Zappa\Gabriele-Zappa,it ITA,DF,Cagliari,20,1999,26.6,45,23,19,25,1,24,56,42.9,32,444,110,24.8,196,180,68,57,5,1,52,26,71,53,2
+613,Davide Zappacosta\Davide-Zappacosta,it ITA,DF,Genoa,28,1992,22.7,34,19,18,12,4,14,27,51.9,13,366,87,23.8,140,143,83,23,1,0,22,16,50,44,0
+614,Simone Zaza\Simone-Zaza,it ITA,FW,Torino,29,1991,16.6,14,8,3,7,4,2,14,14.3,12,238,58,24.4,20,85,133,15,2,0,13,5,19,6,0
+615,Marvin Zeegelaar\Marvin-Zeegelaar,nl NED,DF,Udinese,29,1990,19.3,40,26,25,15,0,22,37,59.5,15,271,78,28.8,121,113,37,35,9,0,26,14,54,40,0
+616,Piotr Zieliński\Piotr-Zielinski,pl POL,MF,Napoli,26,1994,28,24,15,10,10,4,5,17,29.4,12,279,84,30.1,55,126,98,22,4,0,18,20,44,11,0
+617,Joshua Zirkzee\Joshua-Zirkzee,nl NED,FWMF,Parma,19,2001,1.3,3,2,1,2,0,2,5,40,3,21,10,47.6,3,10,8,0,0,0,0,0,3,1,0
+618,Jeroen Zoet\Jeroen-Zoet,nl NED,GK,Spezia,29,1991,6.7,0,0,0,0,0,0,1,0,1,3,1,33.3,3,0,0,0,0,0,0,0,0,0,0
+619,Filip Đuričić\Filip-Djuricic,rs SRB,MFFW,Sassuolo,28,1992,23.1,34,22,9,16,9,10,27,37,17,401,115,28.7,56,168,177,23,1,0,22,8,42,16,0
